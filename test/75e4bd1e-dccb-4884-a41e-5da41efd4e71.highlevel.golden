@@ -1,0 +1,840 @@
+HighLevelResponse 
+    { _data = HighLevelData 
+        { _danceability = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Danceable
+                        , 0.999999880791
+                        ) 
+                    , 
+                        ( NotDanceable
+                        , 1.00000008274e-7
+                        ) 
+                    ] 
+                )
+            )
+        , _gender = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Female
+                        , 0.622129023075
+                        ) 
+                    , 
+                        ( Male
+                        , 0.377870976925
+                        ) 
+                    ] 
+                )
+            )
+        , _genreDortmund = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Alternative
+                        , 1.41223921446e-8
+                        ) 
+                    , 
+                        ( Blues
+                        , 1.33681874459e-8
+                        ) 
+                    , 
+                        ( Electronic
+                        , 0.999992549419
+                        ) 
+                    , 
+                        ( FolkCountry
+                        , 7.23088021459e-7
+                        ) 
+                    , 
+                        ( FunkSoulRnB
+                        , 1.04000314138e-7
+                        ) 
+                    , 
+                        ( Jazz
+                        , 6.14990403847e-6
+                        ) 
+                    , 
+                        ( Pop
+                        , 1.15594730232e-7
+                        ) 
+                    , 
+                        ( Raphiphop
+                        , 7.26250917182e-8
+                        ) 
+                    , 
+                        ( Rock
+                        , 2.84734881006e-7
+                        ) 
+                    ] 
+                )
+            )
+        , _genreElectronic = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Ambient
+                        , 4.5403573662e-2
+                        ) 
+                    , 
+                        ( DnB
+                        , 4.4863303192e-3
+                        ) 
+                    , 
+                        ( House
+                        , 2.18662172556e-2
+                        ) 
+                    , 
+                        ( Techno
+                        , 8.44050385058e-3
+                        ) 
+                    , 
+                        ( Trance
+                        , 0.919803380966
+                        ) 
+                    ] 
+                )
+            )
+        , _genreRosamerica = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Cla
+                        , 1.91015215023e-6
+                        ) 
+                    , 
+                        ( Dan
+                        , 0.99596196413
+                        ) 
+                    , 
+                        ( Hip
+                        , 2.47665401548e-3
+                        ) 
+                    , 
+                        ( Jaz
+                        , 1.75348541234e-4
+                        ) 
+                    , 
+                        ( Pop
+                        , 6.14759104792e-4
+                        ) 
+                    , 
+                        ( Rhy
+                        , 4.42244607257e-4
+                        ) 
+                    , 
+                        ( Roc
+                        , 2.98906379612e-4
+                        ) 
+                    , 
+                        ( Spe
+                        , 2.82314431388e-5
+                        ) 
+                    ] 
+                )
+            )
+        , _genreTzanetakis = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Blu
+                        , 6.26870542765e-2
+                        ) 
+                    , 
+                        ( Cla
+                        , 3.48228886724e-2
+                        ) 
+                    , 
+                        ( Cou
+                        , 0.104483813047
+                        ) 
+                    , 
+                        ( Dis
+                        , 6.27374649048e-2
+                        ) 
+                    , 
+                        ( Hip
+                        , 0.156886413693
+                        ) 
+                    , 
+                        ( Jaz
+                        , 0.313951909542
+                        ) 
+                    , 
+                        ( Met
+                        , 4.48243469e-2
+                        ) 
+                    , 
+                        ( Pop
+                        , 7.84323960543e-2
+                        ) 
+                    , 
+                        ( Reg
+                        , 6.27435147762e-2
+                        ) 
+                    , 
+                        ( Roc
+                        , 7.84302055836e-2
+                        ) 
+                    ] 
+                )
+            )
+        , _ismir04rhythm = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( ChaChaCha
+                        , 0.218785211444
+                        ) 
+                    , 
+                        ( Jive
+                        , 0.112877637148
+                        ) 
+                    , 
+                        ( Quickstep
+                        , 2.86914091557e-2
+                        ) 
+                    , 
+                        ( RumbaAmerican
+                        , 6.35002031922e-2
+                        ) 
+                    , 
+                        ( RumbaInternational
+                        , 5.3486905992e-2
+                        ) 
+                    , 
+                        ( RumbaMisc
+                        , 3.76691892743e-2
+                        ) 
+                    , 
+                        ( Samba
+                        , 0.172723993659
+                        ) 
+                    , 
+                        ( VienneseWaltz
+                        , 9.14317294955e-2
+                        ) 
+                    , 
+                        ( Waltz
+                        , 2.15374901891e-2
+                        ) 
+                    ] 
+                )
+            )
+        , _mirexMood = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Cluster1
+                        , 6.15229532123e-2
+                        ) 
+                    , 
+                        ( Cluster2
+                        , 5.13774715364e-2
+                        ) 
+                    , 
+                        ( Cluster3
+                        , 0.150965169072
+                        ) 
+                    , 
+                        ( Cluster4
+                        , 3.87130714953e-2
+                        ) 
+                    , 
+                        ( Cluster5
+                        , 0.697421312332
+                        ) 
+                    ] 
+                )
+            )
+        , _moodAcoustic = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Acoustic
+                        , 7.73429598144e-10
+                        ) 
+                    , 
+                        ( NotAcoustic
+                        , 1.0
+                        ) 
+                    ] 
+                )
+            )
+        , _moodAggressive = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Aggressive
+                        , 3.00000096379e-14
+                        ) 
+                    , 
+                        ( NotAggressive
+                        , 1.0
+                        ) 
+                    ] 
+                )
+            )
+        , _moodElectronic = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Electronic
+                        , 0.99620205164
+                        ) 
+                    , 
+                        ( NotElectronic
+                        , 3.79796512425e-3
+                        ) 
+                    ] 
+                )
+            )
+        , _moodHappy = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Happy
+                        , 5.16131035984e-2
+                        ) 
+                    , 
+                        ( NotHappy
+                        , 0.948386907578
+                        ) 
+                    ] 
+                )
+            )
+        , _moodParty = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Party
+                        , 3.47192224581e-4
+                        ) 
+                    , 
+                        ( NotParty
+                        , 0.999652802944
+                        ) 
+                    ] 
+                )
+            )
+        , _moodRelaxed = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Relaxed
+                        , 0.808817088604
+                        ) 
+                    , 
+                        ( NotRelaxed
+                        , 0.191182896495
+                        ) 
+                    ] 
+                )
+            )
+        , _moodSad = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Sad
+                        , 0.187536284328
+                        ) 
+                    , 
+                        ( NotSad
+                        , 0.812463700771
+                        ) 
+                    ] 
+                )
+            )
+        , _timbre = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Bright
+                        , 8.67865234613e-2
+                        ) 
+                    , 
+                        ( Dark
+                        , 0.91321349144
+                        ) 
+                    ] 
+                )
+            )
+        , _tonal = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Atonal
+                        , 0.87137567997
+                        ) 
+                    , 
+                        ( Tonal
+                        , 0.128624305129
+                        ) 
+                    ] 
+                )
+            )
+        , _vocal = Feature 
+            ( Version 
+                { _essentia = EssentiaVersion 
+                    { _essentiaVersion = "2.1-beta1" 
+                    , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                    , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                    } 
+                , _extractor = "music 1.0" 
+                , _gaia = Just 
+                    ( GaiaVersion 
+                        { _gaiaVersion = "2.4-dev" 
+                        , _gaiaGitSha = "857329b" 
+                        } 
+                    )
+                , _modelsEssentiaGitSha = "v2.1_beta1" 
+                } 
+            ) 
+            ( FiniteDistribution 
+                ( fromList 
+                    [ 
+                        ( Instrumental
+                        , 0.900784492493
+                        ) 
+                    , 
+                        ( Vocal
+                        , 9.92154851556e-2
+                        ) 
+                    ] 
+                )
+            )
+        } 
+    , _metadata = MetaData 
+        { _audioProperties = AudioProperties 
+            { _analysisSampleRate = 44100
+            , _bitRate = 0
+            , _codec = "flac" 
+            , _downmix = "mix" 
+            , _equalLoudness = 0
+            , _length = 338.788452148
+            , _lossless = True
+            , _md5Encoded = "429a5b9f67827e376ce363783c271ec4" 
+            , _replayGain = -15.1841907501
+            , _sampleRate = 44100
+            } 
+        , _tags = Tags 
+            ( fromList 
+                [ 
+                    ( "totaldiscs" 
+                    , Array [ String "1" ]
+                    ) 
+                , 
+                    ( "script" 
+                    , Array [ String "Latn" ]
+                    ) 
+                , 
+                    ( "musicbrainz_recordingid" 
+                    , Array [ String "75e4bd1e-dccb-4884-a41e-5da41efd4e71" ]
+                    ) 
+                , 
+                    ( "releasestatus" 
+                    , Array [ String "official" ]
+                    ) 
+                , 
+                    ( "tracktotal" 
+                    , Array [ String "21" ]
+                    ) 
+                , 
+                    ( "originaldate" 
+                    , Array [ String "2012-10-31" ]
+                    ) 
+                , 
+                    ( "artistsort" 
+                    , Array [ String "Rogue" ]
+                    ) 
+                , 
+                    ( "musicbrainz_artistid" 
+                    , Array [ String "64d8e19f-ad15-4957-a403-035bfef0e2e7" ]
+                    ) 
+                , 
+                    ( "totaltracks" 
+                    , Array [ String "21" ]
+                    ) 
+                , 
+                    ( "musicbrainz_albumartistid" 
+                    , Array [ String "89ad4ac3-39f7-470e-963a-56509c546377" ]
+                    ) 
+                , 
+                    ( "date" 
+                    , Array [ String "2012-10-31" ]
+                    ) 
+                , 
+                    ( "albumartistsort" 
+                    , Array [ String "Various Artists" ]
+                    ) 
+                , 
+                    ( "media" 
+                    , Array [ String "Digital Media" ]
+                    ) 
+                , 
+                    ( "tracknumber" 
+                    , Array [ String "20" ]
+                    ) 
+                , 
+                    ( "album" 
+                    , Array [ String "Monstercat 010: Conquest" ]
+                    ) 
+                , 
+                    ( "disctotal" 
+                    , Array [ String "1" ]
+                    ) 
+                , 
+                    ( "artists" 
+                    , Array [ String "Rogue" ]
+                    ) 
+                , 
+                    ( "asin" 
+                    , Array [ String "B00AAU2NBY" ]
+                    ) 
+                , 
+                    ( "musicbrainz_albumid" 
+                    , Array [ String "8bbf1d65-7430-45f4-af6e-e62125322176" ]
+                    ) 
+                , 
+                    ( "acoustid_id" 
+                    , Array [ String "65cc3ac0-7b48-490b-9d4b-8cb9b05aeca7" ]
+                    ) 
+                , 
+                    ( "title" 
+                    , Array [ String "Adventure Time" ]
+                    ) 
+                , 
+                    ( "discnumber" 
+                    , Array [ String "1" ]
+                    ) 
+                , 
+                    ( "file_name" 
+                    , String "20 Rogue - Adventure Time.flac" 
+                    ) 
+                , 
+                    ( "albumartist" 
+                    , Array [ String "Various Artists" ]
+                    ) 
+                , 
+                    ( "label" 
+                    , Array [ String "Monstercat" ]
+                    ) 
+                , 
+                    ( "compilation" 
+                    , Array [ String "1" ]
+                    ) 
+                , 
+                    ( "musicbrainz_releasetrackid" 
+                    , Array [ String "d1f4c090-0ead-42e6-8e6a-91a9be8de77f" ]
+                    ) 
+                , 
+                    ( "artist" 
+                    , Array [ String "Rogue" ]
+                    ) 
+                , 
+                    ( "releasetype" 
+                    , Array 
+                        [ String "album" 
+                        , String "compilation" 
+                        ] 
+                    ) 
+                , 
+                    ( "releasecountry" 
+                    , Array [ String "XW" ]
+                    ) 
+                , 
+                    ( "musicbrainz_releasegroupid" 
+                    , Array [ String "9dabba99-704c-4730-b9fa-7c1047c41e3e" ]
+                    ) 
+                ] 
+            )
+        , _version = Version 
+            { _essentia = EssentiaVersion 
+                { _essentiaVersion = "2.1-beta1" 
+                , _essentiaBuildSha = "8e24b98b71ad84f3024c7541412f02124a26d327" 
+                , _essentiaGitSha = "v2.1_beta1-228-g260734a" 
+                } 
+            , _extractor = "music 1.0" 
+            , _gaia = Just 
+                ( GaiaVersion 
+                    { _gaiaVersion = "2.4-dev" 
+                    , _gaiaGitSha = "857329b" 
+                    } 
+                )
+            , _modelsEssentiaGitSha = "v2.1_beta1" 
+            } 
+        } 
+    } 

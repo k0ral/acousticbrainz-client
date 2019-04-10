@@ -1,0 +1,3775 @@
+LowLevelResponse 
+    { _data = LowLevelData 
+        { _averageLoudness = 0.887660264969
+        , _barkBands = BarkBands 
+            ( Bands 
+                { _bands = 
+                    [ StatisticalUnits 
+                        { _meanOfDerivative = 1.06181301817e-4
+                        , _meanOfSecondDerivative = 1.91278231796e-4
+                        , _varianceOfDerivative = 3.81240710112e-8
+                        , _varianceOfSecondDerivative = 1.1488357643e-7
+                        , _maximum = 3.05503234267e-3
+                        , _mean = 9.90112748696e-5
+                        , _median = 2.71383942163e-5
+                        , _minimum = 4.77285400954e-25
+                        , _variance = 3.80396407706e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.06725508906e-3
+                        , _meanOfSecondDerivative = 3.64955561236e-3
+                        , _varianceOfDerivative = 5.81572057854e-5
+                        , _varianceOfSecondDerivative = 1.61664371262e-4
+                        , _maximum = 7.09039792418e-2
+                        , _mean = 1.89701281488e-3
+                        , _median = 1.44333491335e-4
+                        , _minimum = 1.8993015501e-24
+                        , _variance = 3.83993319701e-5
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.056829351e-3
+                        , _meanOfSecondDerivative = 1.94896792527e-3
+                        , _varianceOfDerivative = 1.69498271134e-5
+                        , _varianceOfSecondDerivative = 4.86460303364e-5
+                        , _maximum = 4.50794100761e-2
+                        , _mean = 7.8935874626e-4
+                        , _median = 7.25036807125e-5
+                        , _minimum = 1.34710680506e-24
+                        , _variance = 1.00544521047e-5
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.80972798262e-3
+                        , _meanOfSecondDerivative = 2.92916689068e-3
+                        , _varianceOfDerivative = 3.42485836882e-5
+                        , _varianceOfSecondDerivative = 8.34547536215e-5
+                        , _maximum = 5.38539551198e-2
+                        , _mean = 1.58199167345e-3
+                        , _median = 2.15497711906e-4
+                        , _minimum = 8.01883766171e-25
+                        , _variance = 2.94956753351e-5
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.25536355376e-3
+                        , _meanOfSecondDerivative = 5.5537968874e-3
+                        , _varianceOfDerivative = 1.40298798215e-4
+                        , _varianceOfSecondDerivative = 3.76314361347e-4
+                        , _maximum = 0.123709067702
+                        , _mean = 3.0757705681e-3
+                        , _median = 7.9022225691e-4
+                        , _minimum = 7.13468048559e-24
+                        , _variance = 1.00859004306e-4
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.09740823973e-3
+                        , _meanOfSecondDerivative = 1.76532787737e-3
+                        , _varianceOfDerivative = 4.81339793623e-6
+                        , _varianceOfSecondDerivative = 1.18368534459e-5
+                        , _maximum = 4.62591201067e-2
+                        , _mean = 1.74561073072e-3
+                        , _median = 7.59825517889e-4
+                        , _minimum = 1.03383874055e-23
+                        , _variance = 8.1012804003e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.05010217521e-3
+                        , _meanOfSecondDerivative = 1.63818837609e-3
+                        , _varianceOfDerivative = 6.57795681036e-6
+                        , _varianceOfSecondDerivative = 1.43884208228e-5
+                        , _maximum = 9.59112271667e-2
+                        , _mean = 1.70414696913e-3
+                        , _median = 5.685351789e-4
+                        , _minimum = 4.09103226005e-24
+                        , _variance = 1.95880347746e-5
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 8.69080016855e-4
+                        , _meanOfSecondDerivative = 1.37677171733e-3
+                        , _varianceOfDerivative = 1.03205456981e-5
+                        , _varianceOfSecondDerivative = 2.61108416453e-5
+                        , _maximum = 5.55742047727e-2
+                        , _mean = 1.03036290966e-3
+                        , _median = 2.71225639153e-4
+                        , _minimum = 7.00657026345e-24
+                        , _variance = 9.78484786174e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 4.33424749644e-4
+                        , _meanOfSecondDerivative = 6.53275637887e-4
+                        , _varianceOfDerivative = 1.98221209757e-6
+                        , _varianceOfSecondDerivative = 4.21403683504e-6
+                        , _maximum = 3.9473079145e-2
+                        , _mean = 6.98898278642e-4
+                        , _median = 1.5236728359e-4
+                        , _minimum = 1.41626770001e-23
+                        , _variance = 4.22716220783e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.38000817969e-3
+                        , _meanOfSecondDerivative = 2.03853356652e-3
+                        , _varianceOfDerivative = 1.50234964167e-5
+                        , _varianceOfSecondDerivative = 3.25387482007e-5
+                        , _maximum = 0.12126776576
+                        , _mean = 3.13349207863e-3
+                        , _median = 2.46304058237e-4
+                        , _minimum = 1.59098981978e-23
+                        , _variance = 4.81834176753e-5
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 7.34475092031e-4
+                        , _meanOfSecondDerivative = 1.10973464325e-3
+                        , _varianceOfDerivative = 6.23593996352e-6
+                        , _varianceOfSecondDerivative = 1.36576745717e-5
+                        , _maximum = 4.87567558885e-2
+                        , _mean = 1.38335907832e-3
+                        , _median = 9.92005661828e-5
+                        , _minimum = 1.91889437007e-23
+                        , _variance = 1.86559282156e-5
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.38498934777e-4
+                        , _meanOfSecondDerivative = 3.50681191776e-4
+                        , _varianceOfDerivative = 4.88760520057e-7
+                        , _varianceOfSecondDerivative = 9.12868415526e-7
+                        , _maximum = 2.62430235744e-2
+                        , _mean = 3.88579035643e-4
+                        , _median = 5.35922481504e-5
+                        , _minimum = 2.34526453856e-23
+                        , _variance = 1.46227648656e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.67083232757e-4
+                        , _meanOfSecondDerivative = 4.03155485401e-4
+                        , _varianceOfDerivative = 5.81539723044e-7
+                        , _varianceOfSecondDerivative = 1.30913497287e-6
+                        , _maximum = 2.22794618458e-2
+                        , _mean = 5.28759555891e-4
+                        , _median = 5.98655751674e-5
+                        , _minimum = 3.97119616328e-23
+                        , _variance = 1.98676389118e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.66819168953e-4
+                        , _meanOfSecondDerivative = 2.50681507168e-4
+                        , _varianceOfDerivative = 2.82057555978e-7
+                        , _varianceOfSecondDerivative = 5.85558780131e-7
+                        , _maximum = 2.2195989266e-2
+                        , _mean = 2.79169646092e-4
+                        , _median = 2.35025017901e-5
+                        , _minimum = 3.10039122712e-23
+                        , _variance = 8.50854974033e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.80033166544e-4
+                        , _meanOfSecondDerivative = 2.68870295258e-4
+                        , _varianceOfDerivative = 4.15196723225e-7
+                        , _varianceOfSecondDerivative = 9.09750610845e-7
+                        , _maximum = 1.96374524385e-2
+                        , _mean = 3.20672232192e-4
+                        , _median = 3.31512273988e-5
+                        , _minimum = 4.70249956804e-23
+                        , _variance = 1.03401123397e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 8.93581673154e-5
+                        , _meanOfSecondDerivative = 1.36764690978e-4
+                        , _varianceOfDerivative = 1.07841820807e-7
+                        , _varianceOfSecondDerivative = 2.34813185784e-7
+                        , _maximum = 1.24414265156e-2
+                        , _mean = 1.29715393996e-4
+                        , _median = 1.88789672393e-5
+                        , _minimum = 4.21210292413e-23
+                        , _variance = 1.86693668525e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 5.59885047551e-5
+                        , _meanOfSecondDerivative = 8.68187926244e-5
+                        , _varianceOfDerivative = 3.43991182206e-8
+                        , _varianceOfSecondDerivative = 7.14272729851e-8
+                        , _maximum = 1.24066546559e-2
+                        , _mean = 8.40553329908e-5
+                        , _median = 1.30461239678e-5
+                        , _minimum = 7.86879854607e-23
+                        , _variance = 1.06667307875e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.74799346901e-5
+                        , _meanOfSecondDerivative = 5.81335116294e-5
+                        , _varianceOfDerivative = 9.97730875696e-9
+                        , _varianceOfSecondDerivative = 2.2970278124e-8
+                        , _maximum = 4.2721950449e-3
+                        , _mean = 4.92603539897e-5
+                        , _median = 9.58152395469e-6
+                        , _minimum = 1.0865048143e-22
+                        , _variance = 1.32328743518e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 4.95547501487e-5
+                        , _meanOfSecondDerivative = 7.42966440157e-5
+                        , _varianceOfDerivative = 1.34721949152e-8
+                        , _varianceOfSecondDerivative = 2.78441927293e-8
+                        , _maximum = 2.02544778585e-3
+                        , _mean = 7.10430613253e-5
+                        , _median = 1.65164219652e-5
+                        , _minimum = 1.38859486966e-22
+                        , _variance = 2.28618475262e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 5.67412862438e-5
+                        , _meanOfSecondDerivative = 8.46949187689e-5
+                        , _varianceOfDerivative = 1.67931535344e-8
+                        , _varianceOfSecondDerivative = 3.53499309824e-8
+                        , _maximum = 1.56756641809e-3
+                        , _mean = 8.36182953208e-5
+                        , _median = 1.9768220227e-5
+                        , _minimum = 1.71885192939e-22
+                        , _variance = 2.92723782991e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 8.65198016982e-5
+                        , _meanOfSecondDerivative = 1.252261427e-4
+                        , _varianceOfDerivative = 4.96600662814e-8
+                        , _varianceOfSecondDerivative = 1.02679919678e-7
+                        , _maximum = 2.84178415313e-3
+                        , _mean = 1.30092128529e-4
+                        , _median = 2.02260616788e-5
+                        , _minimum = 2.12362491645e-22
+                        , _variance = 9.15141384894e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 6.90523957019e-5
+                        , _meanOfSecondDerivative = 9.36204305617e-5
+                        , _varianceOfDerivative = 2.34076118488e-8
+                        , _varianceOfSecondDerivative = 4.44059828908e-8
+                        , _maximum = 2.93250475079e-3
+                        , _mean = 1.05862425698e-4
+                        , _median = 1.55766265379e-5
+                        , _minimum = 3.14886111306e-22
+                        , _variance = 6.00879985768e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 6.47502165521e-5
+                        , _meanOfSecondDerivative = 8.63201057655e-5
+                        , _varianceOfDerivative = 2.06121395507e-8
+                        , _varianceOfSecondDerivative = 3.73916257956e-8
+                        , _maximum = 3.98053042591e-3
+                        , _mean = 1.04080034362e-4
+                        , _median = 1.46600414155e-5
+                        , _minimum = 2.52794579155e-22
+                        , _variance = 6.94817572366e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 6.36990444036e-5
+                        , _meanOfSecondDerivative = 8.5871302872e-5
+                        , _varianceOfDerivative = 3.17267527805e-8
+                        , _varianceOfSecondDerivative = 6.56836007806e-8
+                        , _maximum = 6.03849161416e-3
+                        , _mean = 9.08776273718e-5
+                        , _median = 1.61711177498e-5
+                        , _minimum = 4.81139115061e-22
+                        , _variance = 5.03016792663e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 4.50227307738e-5
+                        , _meanOfSecondDerivative = 6.3167863118e-5
+                        , _varianceOfDerivative = 9.40197164567e-9
+                        , _varianceOfSecondDerivative = 1.9061639378e-8
+                        , _maximum = 2.52222176641e-3
+                        , _mean = 5.61690030736e-5
+                        , _median = 1.02767398857e-5
+                        , _minimum = 8.79168590935e-22
+                        , _variance = 1.52211452331e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 4.81406823383e-5
+                        , _meanOfSecondDerivative = 7.12857508915e-5
+                        , _varianceOfDerivative = 7.56274509683e-9
+                        , _varianceOfSecondDerivative = 1.70369638397e-8
+                        , _maximum = 8.42500303406e-4
+                        , _mean = 5.04215277033e-5
+                        , _median = 7.55943710828e-6
+                        , _minimum = 1.32221549353e-21
+                        , _variance = 9.26587873096e-9
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.50141408489e-6
+                        , _meanOfSecondDerivative = 5.36551033292e-6
+                        , _varianceOfDerivative = 4.10617616298e-11
+                        , _varianceOfSecondDerivative = 9.29171253827e-11
+                        , _maximum = 5.4803895182e-5
+                        , _mean = 3.37441019838e-6
+                        , _median = 2.45354158324e-7
+                        , _minimum = 1.81837724653e-21
+                        , _variance = 4.66355808137e-11
+                        } 
+                    ] 
+                , _crest = StatisticalUnits 
+                    { _meanOfDerivative = 2.90472459793
+                    , _meanOfSecondDerivative = 4.70289754868
+                    , _varianceOfDerivative = 7.35644245148
+                    , _varianceOfSecondDerivative = 18.8749351501
+                    , _maximum = 26.5847759247
+                    , _mean = 11.7598638535
+                    , _median = 11.0044031143
+                    , _minimum = 2.55251908302
+                    , _variance = 22.0780410767
+                    } 
+                , _flatnessDb = StatisticalUnits 
+                    { _meanOfDerivative = 3.17524373531e-2
+                    , _meanOfSecondDerivative = 4.48405705392e-2
+                    , _varianceOfDerivative = 1.04294274934e-3
+                    , _varianceOfSecondDerivative = 2.21186713316e-3
+                    , _maximum = 0.5651730299
+                    , _mean = 0.165406554937
+                    , _median = 0.154577866197
+                    , _minimum = 1.68250314891e-2
+                    , _variance = 5.04341768101e-3
+                    } 
+                , _kurtosis = StatisticalUnits 
+                    { _meanOfDerivative = 5.05445432663
+                    , _meanOfSecondDerivative = 7.98701715469
+                    , _varianceOfDerivative = 121.792663574
+                    , _varianceOfSecondDerivative = 284.947265625
+                    , _maximum = 327.62991333
+                    , _mean = 7.58187484741
+                    , _median = 3.67392444611
+                    , _minimum = -1.96083152294
+                    , _variance = 251.607254028
+                    } 
+                , _skewness = StatisticalUnits 
+                    { _meanOfDerivative = 0.773234307766
+                    , _meanOfSecondDerivative = 1.1718941927
+                    , _varianceOfDerivative = 0.742745995522
+                    , _varianceOfSecondDerivative = 1.74176049232
+                    , _maximum = 15.538936615
+                    , _mean = 1.49542224407
+                    , _median = 1.31673645973
+                    , _minimum = -6.1877155304
+                    , _variance = 2.49813055992
+                    } 
+                , _spread = StatisticalUnits 
+                    { _meanOfDerivative = 6.61735773087
+                    , _meanOfSecondDerivative = 9.76869869232
+                    , _varianceOfDerivative = 90.0187301636
+                    , _varianceOfSecondDerivative = 191.160491943
+                    , _maximum = 128.756347656
+                    , _mean = 16.8546772003
+                    , _median = 12.4815769196
+                    , _minimum = 0.180492728949
+                    , _variance = 223.523788452
+                    } 
+                } 
+            )
+        , _dissonance = StatisticalUnits 
+            { _meanOfDerivative = 3.72444093227e-2
+            , _meanOfSecondDerivative = 6.14127032459e-2
+            , _varianceOfDerivative = 1.32378761191e-3
+            , _varianceOfSecondDerivative = 3.41024086811e-3
+            , _maximum = 0.499999940395
+            , _mean = 0.426115781069
+            , _median = 0.43908688426
+            , _minimum = 0.153419867158
+            , _variance = 3.14505724236e-3
+            } 
+        , _dynamicComplexity = 5.35607194901
+        , _equivalentRectangularBandwidthBands = Bands 
+            ( Bands 
+                { _bands = 
+                    [ StatisticalUnits 
+                        { _meanOfDerivative = 4.60604801774e-2
+                        , _meanOfSecondDerivative = 7.67910405993e-2
+                        , _varianceOfDerivative = 2.47641578317e-2
+                        , _varianceOfSecondDerivative = 6.42346069217e-2
+                        , _maximum = 1.6764370203
+                        , _mean = 4.60221469402e-2
+                        , _median = 3.66659183055e-3
+                        , _minimum = 8.36684240759e-23
+                        , _variance = 1.94649305195e-2
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 0.51913189888
+                        , _meanOfSecondDerivative = 0.943596839905
+                        , _varianceOfDerivative = 3.89657282829
+                        , _varianceOfSecondDerivative = 11.073343277
+                        , _maximum = 16.7596759796
+                        , _mean = 0.454200655222
+                        , _median = 3.84198464453e-2
+                        , _minimum = 3.19249231553e-22
+                        , _variance = 2.40206360817
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.28389430046
+                        , _meanOfSecondDerivative = 2.34361457825
+                        , _varianceOfDerivative = 24.0908355713
+                        , _varianceOfSecondDerivative = 68.7029647827
+                        , _maximum = 50.5854187012
+                        , _mean = 1.01341092587
+                        , _median = 0.128776028752
+                        , _minimum = 1.53886986812e-21
+                        , _variance = 14.5230264664
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.08887577057
+                        , _meanOfSecondDerivative = 5.20707654953
+                        , _varianceOfDerivative = 75.9723358154
+                        , _varianceOfSecondDerivative = 192.963394165
+                        , _maximum = 77.5875015259
+                        , _mean = 2.63007879257
+                        , _median = 0.478160828352
+                        , _minimum = 5.96423353773e-21
+                        , _variance = 61.1331291199
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 13.5942192078
+                        , _meanOfSecondDerivative = 23.0014533997
+                        , _varianceOfDerivative = 2713.98071289
+                        , _varianceOfSecondDerivative = 7134.734375
+                        , _maximum = 478.742492676
+                        , _mean = 11.0346212387
+                        , _median = 1.50334513187
+                        , _minimum = 1.93096428271e-20
+                        , _variance = 1984.54516602
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 7.34798383713
+                        , _meanOfSecondDerivative = 12.6525964737
+                        , _varianceOfDerivative = 596.266052246
+                        , _varianceOfSecondDerivative = 1640.20812988
+                        , _maximum = 287.443908691
+                        , _mean = 7.76068067551
+                        , _median = 2.26878833771
+                        , _minimum = 1.39564384798e-20
+                        , _variance = 431.881988525
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 7.82777452469
+                        , _meanOfSecondDerivative = 12.9460601807
+                        , _varianceOfDerivative = 349.350616455
+                        , _varianceOfSecondDerivative = 926.450744629
+                        , _maximum = 314.59362793
+                        , _mean = 10.7235250473
+                        , _median = 4.21494054794
+                        , _minimum = 3.94561145532e-20
+                        , _variance = 405.158630371
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 9.51106834412
+                        , _meanOfSecondDerivative = 15.1445846558
+                        , _varianceOfDerivative = 376.582763672
+                        , _varianceOfSecondDerivative = 874.042236328
+                        , _maximum = 436.676483154
+                        , _mean = 15.6432876587
+                        , _median = 6.57739877701
+                        , _minimum = 6.33753021231e-20
+                        , _variance = 720.126037598
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 13.221124649
+                        , _meanOfSecondDerivative = 20.5589561462
+                        , _varianceOfDerivative = 1080.27600098
+                        , _varianceOfSecondDerivative = 2233.77636719
+                        , _maximum = 1712.89855957
+                        , _mean = 23.5874462128
+                        , _median = 8.4157037735
+                        , _minimum = 1.16614229622e-19
+                        , _variance = 4384.24511719
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 21.1045951843
+                        , _meanOfSecondDerivative = 33.3790664673
+                        , _varianceOfDerivative = 5071.05517578
+                        , _varianceOfSecondDerivative = 11717.1347656
+                        , _maximum = 1265.86193848
+                        , _mean = 26.8760490417
+                        , _median = 8.02984333038
+                        , _minimum = 1.63363828281e-19
+                        , _variance = 5600.55908203
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 12.7470617294
+                        , _meanOfSecondDerivative = 20.2995738983
+                        , _varianceOfDerivative = 1695.60949707
+                        , _varianceOfSecondDerivative = 4403.94775391
+                        , _maximum = 913.90020752
+                        , _mean = 17.1028671265
+                        , _median = 5.65639591217
+                        , _minimum = 2.38593578547e-19
+                        , _variance = 1767.3873291
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 10.4239883423
+                        , _meanOfSecondDerivative = 15.3798837662
+                        , _varianceOfDerivative = 1223.05065918
+                        , _varianceOfSecondDerivative = 2534.66455078
+                        , _maximum = 1122.81335449
+                        , _mean = 17.8467063904
+                        , _median = 4.8681397438
+                        , _minimum = 4.10209179673e-19
+                        , _variance = 2582.33886719
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 26.631362915
+                        , _meanOfSecondDerivative = 39.0515823364
+                        , _varianceOfDerivative = 9485.00390625
+                        , _varianceOfSecondDerivative = 20087.9609375
+                        , _maximum = 3710.8034668
+                        , _mean = 51.595703125
+                        , _median = 8.11948394775
+                        , _minimum = 5.6202869438e-19
+                        , _variance = 23508.9140625
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 48.7445755005
+                        , _meanOfSecondDerivative = 69.5062484741
+                        , _varianceOfDerivative = 17218.0566406
+                        , _varianceOfSecondDerivative = 35792.0351562
+                        , _maximum = 2654.73803711
+                        , _mean = 112.789306641
+                        , _median = 9.39841461182
+                        , _minimum = 8.28652425357e-19
+                        , _variance = 58568.8007812
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 18.7114391327
+                        , _meanOfSecondDerivative = 26.7941703796
+                        , _varianceOfDerivative = 3408.30810547
+                        , _varianceOfSecondDerivative = 6933.91503906
+                        , _maximum = 1968.46643066
+                        , _mean = 43.8520584106
+                        , _median = 6.05489301682
+                        , _minimum = 8.81423911799e-19
+                        , _variance = 19791.8808594
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 9.74339485168
+                        , _meanOfSecondDerivative = 14.2153587341
+                        , _varianceOfDerivative = 626.00579834
+                        , _varianceOfSecondDerivative = 1275.18273926
+                        , _maximum = 751.690795898
+                        , _mean = 18.3130989075
+                        , _median = 4.30955982208
+                        , _minimum = 1.34718739444e-18
+                        , _variance = 1950.72473145
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 12.7554979324
+                        , _meanOfSecondDerivative = 18.9643306732
+                        , _varianceOfDerivative = 1359.75915527
+                        , _varianceOfSecondDerivative = 3027.55810547
+                        , _maximum = 1128.94604492
+                        , _mean = 25.767747879
+                        , _median = 3.99805021286
+                        , _minimum = 2.13351676187e-18
+                        , _variance = 4534.0078125
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 8.39184856415
+                        , _meanOfSecondDerivative = 12.3205947876
+                        , _varianceOfDerivative = 593.154296875
+                        , _varianceOfSecondDerivative = 1234.16235352
+                        , _maximum = 1035.02111816
+                        , _mean = 15.8049869537
+                        , _median = 2.55282306671
+                        , _minimum = 2.31925561892e-18
+                        , _variance = 1703.04541016
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 9.70158863068
+                        , _meanOfSecondDerivative = 14.1778078079
+                        , _varianceOfDerivative = 994.15814209
+                        , _varianceOfSecondDerivative = 2008.54077148
+                        , _maximum = 906.544494629
+                        , _mean = 18.6299610138
+                        , _median = 2.57337760925
+                        , _minimum = 2.73149803439e-18
+                        , _variance = 3142.86499023
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 6.09805774689
+                        , _meanOfSecondDerivative = 9.15510749817
+                        , _varianceOfDerivative = 620.193664551
+                        , _varianceOfSecondDerivative = 1455.36022949
+                        , _maximum = 1301.19250488
+                        , _mean = 10.195980072
+                        , _median = 1.84343838692
+                        , _minimum = 3.11938411672e-18
+                        , _variance = 1092.71228027
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 4.3163728714
+                        , _meanOfSecondDerivative = 6.41658592224
+                        , _varianceOfDerivative = 240.652496338
+                        , _varianceOfSecondDerivative = 497.817962646
+                        , _maximum = 741.589599609
+                        , _mean = 7.11168861389
+                        , _median = 1.29128038883
+                        , _minimum = 3.41091958092e-18
+                        , _variance = 561.03894043
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.86169838905
+                        , _meanOfSecondDerivative = 4.27382516861
+                        , _varianceOfDerivative = 82.9118347168
+                        , _varianceOfSecondDerivative = 153.073852539
+                        , _maximum = 749.697937012
+                        , _mean = 4.51729249954
+                        , _median = 0.830800831318
+                        , _minimum = 4.55452634948e-18
+                        , _variance = 339.349121094
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.02682328224
+                        , _meanOfSecondDerivative = 3.14231348038
+                        , _varianceOfDerivative = 28.8577957153
+                        , _varianceOfSecondDerivative = 65.2722396851
+                        , _maximum = 236.058914185
+                        , _mean = 2.87589931488
+                        , _median = 0.630069494247
+                        , _minimum = 4.83046677079e-18
+                        , _variance = 41.6692504883
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.32160997391
+                        , _meanOfSecondDerivative = 3.47649002075
+                        , _varianceOfDerivative = 29.9611434937
+                        , _varianceOfSecondDerivative = 60.8396224976
+                        , _maximum = 85.7057495117
+                        , _mean = 3.33949995041
+                        , _median = 0.791262209415
+                        , _minimum = 4.82000086809e-18
+                        , _variance = 50.4626998901
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.41625213623
+                        , _meanOfSecondDerivative = 3.61439609528
+                        , _varianceOfDerivative = 30.6197738647
+                        , _varianceOfSecondDerivative = 63.3850822449
+                        , _maximum = 75.837928772
+                        , _mean = 3.56811857224
+                        , _median = 0.85382270813
+                        , _minimum = 7.35778064765e-18
+                        , _variance = 53.9055175781
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.62191390991
+                        , _meanOfSecondDerivative = 3.91521859169
+                        , _varianceOfDerivative = 36.3996696472
+                        , _varianceOfSecondDerivative = 76.891708374
+                        , _maximum = 76.6657333374
+                        , _mean = 3.90848231316
+                        , _median = 0.931468248367
+                        , _minimum = 8.26904003356e-18
+                        , _variance = 62.5945854187
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.67106389999
+                        , _meanOfSecondDerivative = 5.52867841721
+                        , _varianceOfDerivative = 96.862159729
+                        , _varianceOfSecondDerivative = 222.263290405
+                        , _maximum = 154.439178467
+                        , _mean = 5.25578403473
+                        , _median = 1.02791070938
+                        , _minimum = 7.58501377936e-18
+                        , _variance = 144.499282837
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.0659725666
+                        , _meanOfSecondDerivative = 4.37429285049
+                        , _varianceOfDerivative = 59.277923584
+                        , _varianceOfSecondDerivative = 113.669326782
+                        , _maximum = 110.842895508
+                        , _mean = 4.74928045273
+                        , _median = 0.627517402172
+                        , _minimum = 9.46457575341e-18
+                        , _variance = 125.905830383
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.17237663269
+                        , _meanOfSecondDerivative = 2.95196771622
+                        , _varianceOfDerivative = 23.0581283569
+                        , _varianceOfSecondDerivative = 42.7004776001
+                        , _maximum = 94.0773391724
+                        , _mean = 3.40342354774
+                        , _median = 0.507633149624
+                        , _minimum = 1.05680313818e-17
+                        , _variance = 60.0067977905
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.84136915207
+                        , _meanOfSecondDerivative = 3.86557173729
+                        , _varianceOfDerivative = 39.2052192688
+                        , _varianceOfSecondDerivative = 73.8977890015
+                        , _maximum = 177.394302368
+                        , _mean = 4.25914859772
+                        , _median = 0.533508300781
+                        , _minimum = 1.12383074127e-17
+                        , _variance = 111.851867676
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.58064293861
+                        , _meanOfSecondDerivative = 2.11015200615
+                        , _varianceOfDerivative = 13.7182779312
+                        , _varianceOfSecondDerivative = 26.1129627228
+                        , _maximum = 108.65070343
+                        , _mean = 2.58729696274
+                        , _median = 0.373081922531
+                        , _minimum = 7.38105916444e-18
+                        , _variance = 42.9201698303
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.38212323189
+                        , _meanOfSecondDerivative = 1.86745607853
+                        , _varianceOfDerivative = 14.1001825333
+                        , _varianceOfSecondDerivative = 28.5910663605
+                        , _maximum = 117.698097229
+                        , _mean = 2.01646947861
+                        , _median = 0.352966696024
+                        , _minimum = 1.06363416112e-17
+                        , _variance = 24.2119750977
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 0.99528080225
+                        , _meanOfSecondDerivative = 1.3723154068
+                        , _varianceOfDerivative = 8.21500682831
+                        , _varianceOfSecondDerivative = 17.6044158936
+                        , _maximum = 110.865470886
+                        , _mean = 1.37072265148
+                        , _median = 0.235840499401
+                        , _minimum = 9.81204455024e-18
+                        , _variance = 12.0565414429
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 0.446945369244
+                        , _meanOfSecondDerivative = 0.622048616409
+                        , _varianceOfDerivative = 1.24958133698
+                        , _varianceOfSecondDerivative = 2.57987427711
+                        , _maximum = 33.0459403992
+                        , _mean = 0.592742025852
+                        , _median = 0.114841364324
+                        , _minimum = 7.96955350252e-18
+                        , _variance = 1.95233845711
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 0.378480821848
+                        , _meanOfSecondDerivative = 0.541301012039
+                        , _varianceOfDerivative = 0.604824662209
+                        , _varianceOfSecondDerivative = 1.26346921921
+                        , _maximum = 19.7362270355
+                        , _mean = 0.44519251585
+                        , _median = 7.6380699873e-2
+                        , _minimum = 6.75846223766e-18
+                        , _variance = 0.923346996307
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 0.269794136286
+                        , _meanOfSecondDerivative = 0.398713588715
+                        , _varianceOfDerivative = 0.244806602597
+                        , _varianceOfSecondDerivative = 0.550354957581
+                        , _maximum = 5.71377372742
+                        , _mean = 0.28443351388
+                        , _median = 4.09903340042e-2
+                        , _minimum = 4.52871004256e-18
+                        , _variance = 0.305713862181
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 7.39875733852e-2
+                        , _meanOfSecondDerivative = 0.110154569149
+                        , _varianceOfDerivative = 1.7670404166e-2
+                        , _varianceOfSecondDerivative = 4.00385037065e-2
+                        , _maximum = 1.38376963139
+                        , _mean = 7.74801820517e-2
+                        , _median = 1.21711771935e-2
+                        , _minimum = 2.27254803845e-18
+                        , _variance = 2.13083717972e-2
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 9.67869535089e-3
+                        , _meanOfSecondDerivative = 1.44358733669e-2
+                        , _varianceOfDerivative = 2.95669044135e-4
+                        , _varianceOfSecondDerivative = 6.62173668388e-4
+                        , _maximum = 0.148202896118
+                        , _mean = 1.01187098771e-2
+                        , _median = 1.38111331034e-3
+                        , _minimum = 8.8076299449e-19
+                        , _variance = 3.59674100764e-4
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 5.31094323378e-4
+                        , _meanOfSecondDerivative = 8.11282079667e-4
+                        , _varianceOfDerivative = 9.5883888207e-7
+                        , _varianceOfSecondDerivative = 2.15832415051e-6
+                        , _maximum = 8.14630463719e-3
+                        , _mean = 5.17813838087e-4
+                        , _median = 4.86623030156e-5
+                        , _minimum = 2.39174698777e-19
+                        , _variance = 1.08969015855e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.35025236179e-5
+                        , _meanOfSecondDerivative = 3.49170077243e-5
+                        , _varianceOfDerivative = 1.72716452251e-9
+                        , _varianceOfSecondDerivative = 3.99935506934e-9
+                        , _maximum = 4.29654930485e-4
+                        , _mean = 3.59354307875e-5
+                        , _median = 2.02389201149e-5
+                        , _minimum = 2.64843150391e-20
+                        , _variance = 2.27143437392e-9
+                        } 
+                    ] 
+                , _crest = StatisticalUnits 
+                    { _meanOfDerivative = 3.36734437943
+                    , _meanOfSecondDerivative = 5.28043174744
+                    , _varianceOfDerivative = 10.0697717667
+                    , _varianceOfSecondDerivative = 23.2108821869
+                    , _maximum = 33.4423408508
+                    , _mean = 13.5361909866
+                    , _median = 12.1918973923
+                    , _minimum = 2.34081268311
+                    , _variance = 45.7947616577
+                    } 
+                , _flatnessDb = StatisticalUnits 
+                    { _meanOfDerivative = 3.00981681794e-2
+                    , _meanOfSecondDerivative = 4.01752591133e-2
+                    , _varianceOfDerivative = 1.07047753409e-3
+                    , _varianceOfSecondDerivative = 1.88846117817e-3
+                    , _maximum = 0.453663855791
+                    , _mean = 0.192080050707
+                    , _median = 0.181553348899
+                    , _minimum = 2.84441616386e-2
+                    , _variance = 5.13934670016e-3
+                    } 
+                , _kurtosis = StatisticalUnits 
+                    { _meanOfDerivative = 3.02750396729
+                    , _meanOfSecondDerivative = 4.57286262512
+                    , _varianceOfDerivative = 25.2348098755
+                    , _varianceOfSecondDerivative = 56.106967926
+                    , _maximum = 125.753341675
+                    , _mean = 4.67544746399
+                    , _median = 2.30013370514
+                    , _minimum = -1.91841757298
+                    , _variance = 66.1493377686
+                    } 
+                , _skewness = StatisticalUnits 
+                    { _meanOfDerivative = 0.591720461845
+                    , _meanOfSecondDerivative = 0.867133259773
+                    , _varianceOfDerivative = 0.37798807025
+                    , _varianceOfSecondDerivative = 0.84023630619
+                    , _maximum = 8.64632797241
+                    , _mean = 1.12853133678
+                    , _median = 1.03026306629
+                    , _minimum = -5.37746953964
+                    , _variance = 1.33963882923
+                    } 
+                , _spread = StatisticalUnits 
+                    { _meanOfDerivative = 10.7984628677
+                    , _meanOfSecondDerivative = 15.799161911
+                    , _varianceOfDerivative = 227.695266724
+                    , _varianceOfSecondDerivative = 468.854949951
+                    , _maximum = 167.744049072
+                    , _mean = 31.0138053894
+                    , _median = 21.8247413635
+                    , _minimum = 0.604650020599
+                    , _variance = 737.323181152
+                    } 
+                } 
+            )
+        , _gfcc = CepstralCoefficients 
+            { _covariance = 
+                [ 
+                    [ 31326.546875
+                    , -141.40196228
+                    , -1673.63024902
+                    , 331.481018066
+                    , -1068.53588867
+                    , 806.735107422
+                    , -625.941467285
+                    , -69.8682785034
+                    , -947.743225098
+                    , 18.9000358582
+                    , -588.925048828
+                    , 269.700958252
+                    , -308.272338867
+                    ] 
+                , 
+                    [ -141.40196228
+                    , 2038.67663574
+                    , -28.9862537384
+                    , -286.529541016
+                    , 170.481811523
+                    , -109.221130371
+                    , 191.782119751
+                    , -25.8689861298
+                    , 155.763290405
+                    , 2.16954684258
+                    , 233.535430908
+                    , -93.8621368408
+                    , 206.596115112
+                    ] 
+                , 
+                    [ -1673.63024902
+                    , -28.9862537384
+                    , 1402.26513672
+                    , 416.578277588
+                    , 41.6142349243
+                    , -31.7814598083
+                    , 32.912979126
+                    , 52.0889968872
+                    , 60.8119277954
+                    , 54.6000328064
+                    , -18.2914886475
+                    , 44.3445320129
+                    , -72.8346252441
+                    ] 
+                , 
+                    [ 331.481018066
+                    , -286.529541016
+                    , 416.578277588
+                    , 745.426696777
+                    , -16.0159931183
+                    , -41.6633338928
+                    , -51.7814025879
+                    , 20.7245616913
+                    , -20.1263980865
+                    , -36.3306732178
+                    , -78.5860519409
+                    , 2.58859086037
+                    , -88.3214187622
+                    ] 
+                , 
+                    [ -1068.53588867
+                    , 170.481811523
+                    , 41.6142349243
+                    , -16.0159931183
+                    , 462.191925049
+                    , 154.792526245
+                    , 130.975357056
+                    , 89.6992492676
+                    , 98.6003952026
+                    , 20.4848957062
+                    , 50.036819458
+                    , 32.221118927
+                    , 56.4716300964
+                    ] 
+                , 
+                    [ 806.735107422
+                    , -109.221130371
+                    , -31.7814598083
+                    , -41.6633338928
+                    , 154.792526245
+                    , 385.925872803
+                    , 122.076950073
+                    , 28.1540355682
+                    , -29.337852478
+                    , 31.8241100311
+                    , -9.89461612701
+                    , 28.3928890228
+                    , -19.9638023376
+                    ] 
+                , 
+                    [ -625.941467285
+                    , 191.782119751
+                    , 32.912979126
+                    , -51.7814025879
+                    , 130.975357056
+                    , 122.076950073
+                    , 265.952880859
+                    , 49.5427284241
+                    , 47.764957428
+                    , 29.2068405151
+                    , 45.3258247375
+                    , -1.01683866978
+                    , 3.98306679726
+                    ] 
+                , 
+                    [ -69.8682785034
+                    , -25.8689861298
+                    , 52.0889968872
+                    , 20.7245616913
+                    , 89.6992492676
+                    , 28.1540355682
+                    , 49.5427284241
+                    , 212.740310669
+                    , 121.030708313
+                    , 55.3128318787
+                    , 27.1749610901
+                    , 45.8412666321
+                    , 13.7167396545
+                    ] 
+                , 
+                    [ -947.743225098
+                    , 155.763290405
+                    , 60.8119277954
+                    , -20.1263980865
+                    , 98.6003952026
+                    , -29.337852478
+                    , 47.764957428
+                    , 121.030708313
+                    , 237.269882202
+                    , 90.6480789185
+                    , 74.2663650513
+                    , 22.0672702789
+                    , 41.816318512
+                    ] 
+                , 
+                    [ 18.9000358582
+                    , 2.16954684258
+                    , 54.6000328064
+                    , -36.3306732178
+                    , 20.4848957062
+                    , 31.8241100311
+                    , 29.2068405151
+                    , 55.3128318787
+                    , 90.6480789185
+                    , 158.903808594
+                    , 55.7251205444
+                    , 32.8794288635
+                    , -3.6053943634
+                    ] 
+                , 
+                    [ -588.925048828
+                    , 233.535430908
+                    , -18.2914886475
+                    , -78.5860519409
+                    , 50.036819458
+                    , -9.89461612701
+                    , 45.3258247375
+                    , 27.1749610901
+                    , 74.2663650513
+                    , 55.7251205444
+                    , 166.533691406
+                    , 21.538640976
+                    , 51.1401863098
+                    ] 
+                , 
+                    [ 269.700958252
+                    , -93.8621368408
+                    , 44.3445320129
+                    , 2.58859086037
+                    , 32.221118927
+                    , 28.3928890228
+                    , -1.01683866978
+                    , 45.8412666321
+                    , 22.0672702789
+                    , 32.8794288635
+                    , 21.538640976
+                    , 133.065032959
+                    , 32.6344413757
+                    ] 
+                , 
+                    [ -308.272338867
+                    , 206.596115112
+                    , -72.8346252441
+                    , -88.3214187622
+                    , 56.4716300964
+                    , -19.9638023376
+                    , 3.98306679726
+                    , 13.7167396545
+                    , 41.816318512
+                    , -3.6053943634
+                    , 51.1401863098
+                    , 32.6344413757
+                    , 155.416427612
+                    ] 
+                ] 
+            , _inverseCovariance = 
+                [ 
+                    [ 7.29542589397e-5
+                    , -1.3629134628e-4
+                    , 1.1898012599e-4
+                    , -1.00190060039e-4
+                    , 1.87358571566e-4
+                    , -2.4832811323e-4
+                    , 2.19706344069e-4
+                    , -2.06725089811e-4
+                    , 3.00739513477e-4
+                    , -2.14779429371e-4
+                    , 2.51980964094e-4
+                    , -2.69463809673e-4
+                    , 1.25107239e-4
+                    ] 
+                , 
+                    [ -1.3629134628e-4
+                    , 1.06266513467e-3
+                    , -3.17423371598e-4
+                    , 3.48226254573e-4
+                    , -4.7295721015e-4
+                    , 7.31664418709e-4
+                    , -9.07070701942e-4
+                    , 6.85292063281e-4
+                    , -8.06791707873e-4
+                    , 6.34878466371e-4
+                    , -1.2200048659e-3
+                    , 1.26931711566e-3
+                    , -1.03849137668e-3
+                    ] 
+                , 
+                    [ 1.1898012599e-4
+                    , -3.17423371598e-4
+                    , 1.118506887e-3
+                    , -6.81269506458e-4
+                    , 2.32229212997e-4
+                    , -2.61765409959e-4
+                    , 1.94016611204e-4
+                    , -2.75506521575e-4
+                    , 3.76158452127e-4
+                    , -6.9384323433e-4
+                    , 5.73944475036e-4
+                    , -8.51933844388e-4
+                    , 5.6903733639e-4
+                    ] 
+                , 
+                    [ -1.00190060039e-4
+                    , 3.48226254573e-4
+                    , -6.81269506458e-4
+                    , 1.99057627469e-3
+                    , -4.0703456034e-4
+                    , 5.33893937245e-4
+                    , -6.97309224051e-5
+                    , 5.0258498959e-5
+                    , -4.88584046252e-4
+                    , 8.78623977769e-4
+                    , -7.97295142547e-5
+                    , 3.66532069165e-4
+                    , 4.65264107333e-4
+                    ] 
+                , 
+                    [ 1.87358571566e-4
+                    , -4.7295721015e-4
+                    , 2.32229212997e-4
+                    , -4.0703456034e-4
+                    , 3.76852764748e-3
+                    , -1.95175909903e-3
+                    , -1.36302114697e-4
+                    , -1.00184453186e-3
+                    , -4.02604462579e-4
+                    , 3.3961047302e-4
+                    , 4.45042998763e-4
+                    , -9.03639418539e-4
+                    , -4.90755017381e-4
+                    ] 
+                , 
+                    [ -2.4832811323e-4
+                    , 7.31664418709e-4
+                    , -2.61765409959e-4
+                    , 5.33893937245e-4
+                    , -1.95175909903e-3
+                    , 4.87108854577e-3
+                    , -2.32295482419e-3
+                    , 5.23251190316e-4
+                    , 5.36534760613e-4
+                    , -5.21235633641e-4
+                    , -3.60052334145e-4
+                    , 4.46238787845e-4
+                    , -6.78703218e-5
+                    ] 
+                , 
+                    [ 2.19706344069e-4
+                    , -9.07070701942e-4
+                    , 1.94016611204e-4
+                    , -6.97309224051e-5
+                    , -1.36302114697e-4
+                    , -2.32295482419e-3
+                    , 6.20388938114e-3
+                    , -1.39476463664e-3
+                    , 6.57997268718e-4
+                    , -5.41154528037e-4
+                    , 2.00105350814e-5
+                    , -3.87704727473e-4
+                    , 1.29333464429e-3
+                    ] 
+                , 
+                    [ -2.06725089811e-4
+                    , 6.85292063281e-4
+                    , -2.75506521575e-4
+                    , 5.0258498959e-5
+                    , -1.00184453186e-3
+                    , 5.23251190316e-4
+                    , -1.39476463664e-3
+                    , 8.21335054934e-3
+                    , -4.60956292227e-3
+                    , 4.64975048089e-4
+                    , -2.57194333244e-4
+                    , -9.91573324427e-4
+                    , -1.35591355502e-4
+                    ] 
+                , 
+                    [ 3.00739513477e-4
+                    , -8.06791707873e-4
+                    , 3.76158452127e-4
+                    , -4.88584046252e-4
+                    , -4.02604462579e-4
+                    , 5.36534760613e-4
+                    , 6.57997268718e-4
+                    , -4.60956292227e-3
+                    , 1.01561611518e-2
+                    , -4.60708094761e-3
+                    , -4.96134562127e-5
+                    , -1.02086123661e-4
+                    , -6.28928886726e-4
+                    ] 
+                , 
+                    [ -2.14779429371e-4
+                    , 6.34878466371e-4
+                    , -6.9384323433e-4
+                    , 8.78623977769e-4
+                    , 3.3961047302e-4
+                    , -5.21235633641e-4
+                    , -5.41154528037e-4
+                    , 4.64975048089e-4
+                    , -4.60708094761e-3
+                    , 1.06911528856e-2
+                    , -3.22801619768e-3
+                    , -7.34272354748e-4
+                    , 1.39062351082e-3
+                    ] 
+                , 
+                    [ 2.51980964094e-4
+                    , -1.2200048659e-3
+                    , 5.73944475036e-4
+                    , -7.97295142547e-5
+                    , 4.45042998763e-4
+                    , -3.60052334145e-4
+                    , 2.00105350814e-5
+                    , -2.57194333244e-4
+                    , -4.96134562127e-5
+                    , -3.22801619768e-3
+                    , 1.01348012686e-2
+                    , -2.14491877705e-3
+                    , -7.86563905422e-4
+                    ] 
+                , 
+                    [ -2.69463809673e-4
+                    , 1.26931711566e-3
+                    , -8.51933844388e-4
+                    , 3.66532069165e-4
+                    , -9.03639418539e-4
+                    , 4.46238787845e-4
+                    , -3.87704727473e-4
+                    , -9.91573324427e-4
+                    , -1.02086123661e-4
+                    , -7.34272354748e-4
+                    , -2.14491877705e-3
+                    , 1.11109912395e-2
+                    , -3.54650919326e-3
+                    ] 
+                , 
+                    [ 1.25107239e-4
+                    , -1.03849137668e-3
+                    , 5.6903733639e-4
+                    , 4.65264107333e-4
+                    , -4.90755017381e-4
+                    , -6.78703218e-5
+                    , 1.29333464429e-3
+                    , -1.35591355502e-4
+                    , -6.28928886726e-4
+                    , 1.39062351082e-3
+                    , -7.86563905422e-4
+                    , -3.54650919326e-3
+                    , 9.94745269418e-3
+                    ] 
+                ] 
+            , _mean = 
+                [ -84.2743682861
+                , 82.8087005615
+                , -99.5979766846
+                , 3.00887465477
+                , -76.2682266235
+                , 11.1486463547
+                , -38.2109336853
+                , 3.56073212624
+                , -29.1169242859
+                , 6.90907049179
+                , -17.3806228638
+                , 2.99352264404
+                , -7.96807861328
+                ] 
+            } 
+        , _highFrequencyContent = StatisticalUnits 
+            { _meanOfDerivative = 6.28268575668
+            , _meanOfSecondDerivative = 8.73643398285
+            , _varianceOfDerivative = 101.969444275
+            , _varianceOfSecondDerivative = 193.027450562
+            , _maximum = 107.855834961
+            , _mean = 15.0957775116
+            , _median = 8.82596206665
+            , _minimum = 1.05665652869e-16
+            , _variance = 282.856842041
+            } 
+        , _melBands = MelBands 
+            ( Bands 
+                { _bands = 
+                    [ StatisticalUnits 
+                        { _meanOfDerivative = 4.96562279295e-4
+                        , _meanOfSecondDerivative = 8.56593833305e-4
+                        , _varianceOfDerivative = 3.13547252517e-6
+                        , _varianceOfSecondDerivative = 8.50772357808e-6
+                        , _maximum = 1.81096717715e-2
+                        , _mean = 4.80143149616e-4
+                        , _median = 4.48517312179e-5
+                        , _minimum = 1.07895474096e-24
+                        , _variance = 2.21718960347e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 6.80519326124e-4
+                        , _meanOfSecondDerivative = 1.23756146058e-3
+                        , _varianceOfDerivative = 6.7350365498e-6
+                        , _varianceOfSecondDerivative = 1.90509508684e-5
+                        , _maximum = 2.38927491009e-2
+                        , _mean = 5.65978931263e-4
+                        , _median = 7.01574099367e-5
+                        , _minimum = 8.73698556843e-25
+                        , _variance = 4.15281101596e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 9.3658757396e-4
+                        , _meanOfSecondDerivative = 1.56637048349e-3
+                        , _varianceOfDerivative = 9.13264466362e-6
+                        , _varianceOfSecondDerivative = 2.31480589719e-5
+                        , _maximum = 2.67499405891e-2
+                        , _mean = 7.84823438153e-4
+                        , _median = 1.22913712403e-4
+                        , _minimum = 2.17051409868e-24
+                        , _variance = 7.25570407667e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 7.79225607403e-4
+                        , _meanOfSecondDerivative = 1.32867973298e-3
+                        , _varianceOfDerivative = 8.7877660917e-6
+                        , _varianceOfSecondDerivative = 2.35850402532e-5
+                        , _maximum = 3.15625034273e-2
+                        , _mean = 6.90005545039e-4
+                        , _median = 1.44876568811e-4
+                        , _minimum = 1.39667537307e-24
+                        , _variance = 6.23206506134e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.63228372205e-4
+                        , _meanOfSecondDerivative = 4.36361384345e-4
+                        , _varianceOfDerivative = 3.87637612675e-7
+                        , _varianceOfSecondDerivative = 1.02209583019e-6
+                        , _maximum = 1.15789994597e-2
+                        , _mean = 3.67489119526e-4
+                        , _median = 1.53321612743e-4
+                        , _minimum = 1.29608919816e-24
+                        , _variance = 4.42047138449e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.12153652683e-4
+                        , _meanOfSecondDerivative = 3.36833996698e-4
+                        , _varianceOfDerivative = 1.80900102009e-7
+                        , _varianceOfSecondDerivative = 4.19888635861e-7
+                        , _maximum = 9.98915266246e-3
+                        , _mean = 3.49022593582e-4
+                        , _median = 1.46992315422e-4
+                        , _minimum = 1.68988461774e-24
+                        , _variance = 3.58858102345e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.02170223929e-4
+                        , _meanOfSecondDerivative = 3.15331184538e-4
+                        , _varianceOfDerivative = 2.348609911e-7
+                        , _varianceOfSecondDerivative = 5.00373516843e-7
+                        , _maximum = 2.23228614777e-2
+                        , _mean = 3.58230638085e-4
+                        , _median = 1.27770312247e-4
+                        , _minimum = 1.72572276588e-24
+                        , _variance = 9.11388156055e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.31971745961e-4
+                        , _meanOfSecondDerivative = 3.66825988749e-4
+                        , _varianceOfDerivative = 6.72695250614e-7
+                        , _varianceOfSecondDerivative = 1.5882022808e-6
+                        , _maximum = 1.35626485571e-2
+                        , _mean = 2.84738023765e-4
+                        , _median = 7.99722620286e-5
+                        , _minimum = 1.52795188568e-24
+                        , _variance = 7.01289650351e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 8.87814749149e-5
+                        , _meanOfSecondDerivative = 1.42159478855e-4
+                        , _varianceOfDerivative = 7.37846903576e-8
+                        , _varianceOfSecondDerivative = 1.92349006056e-7
+                        , _maximum = 6.29535317421e-3
+                        , _mean = 1.22066936456e-4
+                        , _median = 3.907980863e-5
+                        , _minimum = 1.81162281593e-24
+                        , _variance = 8.46599803594e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 6.79938821122e-5
+                        , _meanOfSecondDerivative = 1.01158526377e-4
+                        , _varianceOfDerivative = 5.43061240421e-8
+                        , _varianceOfSecondDerivative = 1.13567480753e-7
+                        , _maximum = 7.41891330108e-3
+                        , _mean = 1.10918379505e-4
+                        , _median = 2.48450560321e-5
+                        , _minimum = 2.39833771976e-24
+                        , _variance = 1.16345681533e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.40387579449e-4
+                        , _meanOfSecondDerivative = 2.04067648156e-4
+                        , _varianceOfDerivative = 2.6122268082e-7
+                        , _varianceOfSecondDerivative = 5.51377183911e-7
+                        , _maximum = 1.96149181575e-2
+                        , _mean = 2.63159861788e-4
+                        , _median = 3.32272175001e-5
+                        , _minimum = 2.42027239166e-24
+                        , _variance = 6.41839505988e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.04207492061e-4
+                        , _meanOfSecondDerivative = 2.91596224997e-4
+                        , _varianceOfDerivative = 2.94298359904e-7
+                        , _varianceOfSecondDerivative = 6.16226088823e-7
+                        , _maximum = 1.08443228528e-2
+                        , _mean = 4.7404851648e-4
+                        , _median = 3.28912610712e-5
+                        , _minimum = 2.80045424138e-24
+                        , _variance = 1.05934236672e-6
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 7.74339132477e-5
+                        , _meanOfSecondDerivative = 1.13771769975e-4
+                        , _varianceOfDerivative = 5.91019677643e-8
+                        , _varianceOfSecondDerivative = 1.28792549958e-7
+                        , _maximum = 5.54817821831e-3
+                        , _mean = 1.65971301612e-4
+                        , _median = 1.58167040354e-5
+                        , _minimum = 2.26214897029e-24
+                        , _variance = 2.73574698895e-7
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.9846378311e-5
+                        , _meanOfSecondDerivative = 4.35345136793e-5
+                        , _varianceOfDerivative = 8.35756086559e-9
+                        , _varianceOfSecondDerivative = 1.6014398696e-8
+                        , _maximum = 3.19479126483e-3
+                        , _mean = 5.54827020096e-5
+                        , _median = 7.48959610064e-6
+                        , _minimum = 2.9484652548e-24
+                        , _variance = 3.66310537459e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.77312301478e-5
+                        , _meanOfSecondDerivative = 4.08082923968e-5
+                        , _varianceOfDerivative = 4.88549245503e-9
+                        , _varianceOfSecondDerivative = 1.03783408534e-8
+                        , _maximum = 2.15630559251e-3
+                        , _mean = 5.16338877787e-5
+                        , _median = 8.03418606665e-6
+                        , _minimum = 1.95676868654e-24
+                        , _variance = 1.61029145573e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.60099841398e-5
+                        , _meanOfSecondDerivative = 3.81818135793e-5
+                        , _varianceOfDerivative = 6.09710193444e-9
+                        , _varianceOfSecondDerivative = 1.28328290216e-8
+                        , _maximum = 1.97481596842e-3
+                        , _mean = 4.80573835375e-5
+                        , _median = 5.20515050084e-6
+                        , _minimum = 3.18340834554e-24
+                        , _variance = 1.69786389392e-8
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.60925774253e-5
+                        , _meanOfSecondDerivative = 2.39011478698e-5
+                        , _varianceOfDerivative = 2.7174815731e-9
+                        , _varianceOfSecondDerivative = 5.48626655217e-9
+                        , _maximum = 2.39989440888e-3
+                        , _mean = 2.71866283583e-5
+                        , _median = 2.51967298937e-6
+                        , _minimum = 3.18294686191e-24
+                        , _variance = 7.32617522203e-9
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.63941094797e-5
+                        , _meanOfSecondDerivative = 2.41198758886e-5
+                        , _varianceOfDerivative = 2.87454127168e-9
+                        , _varianceOfSecondDerivative = 5.67761215819e-9
+                        , _maximum = 1.96906621568e-3
+                        , _mean = 2.93594985123e-5
+                        , _median = 3.19368655255e-6
+                        , _minimum = 3.59933841327e-24
+                        , _variance = 9.1014138448e-9
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.22854298752e-5
+                        , _meanOfSecondDerivative = 1.81134946615e-5
+                        , _varianceOfDerivative = 2.26638041667e-9
+                        , _varianceOfSecondDerivative = 4.90262674901e-9
+                        , _maximum = 1.766925212e-3
+                        , _mean = 2.01611019293e-5
+                        , _median = 2.28424414672e-6
+                        , _minimum = 3.78696345755e-24
+                        , _variance = 5.20156095973e-9
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 6.84699898557e-6
+                        , _meanOfSecondDerivative = 1.04975579234e-5
+                        , _varianceOfDerivative = 7.82538034372e-10
+                        , _varianceOfSecondDerivative = 1.83782611352e-9
+                        , _maximum = 1.01581239142e-3
+                        , _mean = 9.7806650956e-6
+                        , _median = 1.40887891575e-6
+                        , _minimum = 2.69129975514e-24
+                        , _variance = 1.00466990283e-9
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 5.08111406816e-6
+                        , _meanOfSecondDerivative = 7.5243306128e-6
+                        , _varianceOfDerivative = 4.01842004116e-10
+                        , _varianceOfSecondDerivative = 7.7098710749e-10
+                        , _maximum = 1.21756107546e-3
+                        , _mean = 7.8505354395e-6
+                        , _median = 1.08959113732e-6
+                        , _minimum = 3.73499211782e-24
+                        , _variance = 9.80344805335e-10
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.30505326929e-6
+                        , _meanOfSecondDerivative = 5.01064596392e-6
+                        , _varianceOfDerivative = 1.53074539155e-10
+                        , _varianceOfSecondDerivative = 2.76520278897e-10
+                        , _maximum = 1.09860498924e-3
+                        , _mean = 4.92746494274e-6
+                        , _median = 6.66745449962e-7
+                        , _minimum = 3.9738576222e-24
+                        , _variance = 6.12438932901e-10
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.20625429392e-6
+                        , _meanOfSecondDerivative = 3.47901413988e-6
+                        , _varianceOfDerivative = 4.11605957651e-11
+                        , _varianceOfSecondDerivative = 1.03273153917e-10
+                        , _maximum = 3.15841520205e-4
+                        , _mean = 3.02630269289e-6
+                        , _median = 5.76053025725e-7
+                        , _minimum = 3.24998781151e-24
+                        , _variance = 5.9084730164e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.84530324532e-6
+                        , _meanOfSecondDerivative = 2.87030343316e-6
+                        , _varianceOfDerivative = 2.00400442768e-11
+                        , _varianceOfSecondDerivative = 4.35264983778e-11
+                        , _maximum = 9.86956365523e-5
+                        , _mean = 2.41049997385e-6
+                        , _median = 4.43576880116e-7
+                        , _minimum = 4.61130456527e-24
+                        , _variance = 3.00376945539e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.95660845748e-6
+                        , _meanOfSecondDerivative = 2.9890593396e-6
+                        , _varianceOfDerivative = 2.19867023893e-11
+                        , _varianceOfSecondDerivative = 4.618988525e-11
+                        , _maximum = 7.23478806322e-5
+                        , _mean = 2.69412703346e-6
+                        , _median = 5.69629435176e-7
+                        , _minimum = 2.63806899898e-24
+                        , _variance = 3.50652597236e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.00699946618e-6
+                        , _meanOfSecondDerivative = 3.0574487937e-6
+                        , _varianceOfDerivative = 2.40258472839e-11
+                        , _varianceOfSecondDerivative = 5.21683946042e-11
+                        , _maximum = 8.43925226945e-5
+                        , _mean = 2.76789342024e-6
+                        , _median = 5.76825470944e-7
+                        , _minimum = 5.27812632187e-24
+                        , _variance = 3.81611929556e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.6675006691e-6
+                        , _meanOfSecondDerivative = 2.53167627307e-6
+                        , _varianceOfDerivative = 1.40922247829e-11
+                        , _varianceOfSecondDerivative = 2.96280985856e-11
+                        , _maximum = 5.53661957383e-5
+                        , _mean = 2.39820019488e-6
+                        , _median = 5.48481921214e-7
+                        , _minimum = 4.53437800524e-24
+                        , _variance = 2.42324979527e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.84856151009e-6
+                        , _meanOfSecondDerivative = 2.82713676825e-6
+                        , _varianceOfDerivative = 1.88194529405e-11
+                        , _varianceOfSecondDerivative = 4.21184753741e-11
+                        , _maximum = 5.80102860113e-5
+                        , _mean = 2.59604371422e-6
+                        , _median = 5.94182552049e-7
+                        , _minimum = 5.20875547159e-24
+                        , _variance = 2.92021164194e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.43523550125e-6
+                        , _meanOfSecondDerivative = 3.77764195036e-6
+                        , _varianceOfDerivative = 4.31107684273e-11
+                        , _varianceOfSecondDerivative = 1.03151771846e-10
+                        , _maximum = 1.28959858557e-4
+                        , _mean = 3.32232525579e-6
+                        , _median = 6.7269002102e-7
+                        , _minimum = 4.35224540501e-24
+                        , _variance = 5.84862228092e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 2.19214916797e-6
+                        , _meanOfSecondDerivative = 3.27281986756e-6
+                        , _varianceOfDerivative = 3.33458781421e-11
+                        , _varianceOfSecondDerivative = 7.28940519057e-11
+                        , _maximum = 8.56500482769e-5
+                        , _mean = 3.08166340801e-6
+                        , _median = 4.35788791719e-7
+                        , _minimum = 4.0742157177e-24
+                        , _variance = 5.46122071177e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.77722063199e-6
+                        , _meanOfSecondDerivative = 2.56371504292e-6
+                        , _varianceOfDerivative = 2.02140630623e-11
+                        , _varianceOfSecondDerivative = 4.0037979876e-11
+                        , _maximum = 6.46475091344e-5
+                        , _mean = 2.66578058472e-6
+                        , _median = 3.10465736675e-7
+                        , _minimum = 4.762930731e-24
+                        , _variance = 4.20843637716e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.1530669326e-6
+                        , _meanOfSecondDerivative = 1.637542141e-6
+                        , _varianceOfDerivative = 6.92483570486e-12
+                        , _varianceOfSecondDerivative = 1.42139694112e-11
+                        , _maximum = 5.9292971855e-5
+                        , _mean = 1.76578498667e-6
+                        , _median = 2.72498368759e-7
+                        , _minimum = 5.93585961198e-24
+                        , _variance = 1.67599701478e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.5695025013e-6
+                        , _meanOfSecondDerivative = 2.19134676627e-6
+                        , _varianceOfDerivative = 1.33787841916e-11
+                        , _varianceOfSecondDerivative = 2.68046140839e-11
+                        , _maximum = 5.7563851442e-5
+                        , _mean = 2.22385915549e-6
+                        , _median = 2.84115856175e-7
+                        , _minimum = 5.21000581612e-24
+                        , _variance = 2.80655446799e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 1.63610559412e-6
+                        , _meanOfSecondDerivative = 2.27777786677e-6
+                        , _varianceOfDerivative = 1.38276135334e-11
+                        , _varianceOfSecondDerivative = 2.67568571466e-11
+                        , _maximum = 1.25786944409e-4
+                        , _mean = 2.42998316935e-6
+                        , _median = 2.93033593834e-7
+                        , _minimum = 4.8473420033e-24
+                        , _variance = 4.13175951786e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 9.35111529543e-7
+                        , _meanOfSecondDerivative = 1.30019725475e-6
+                        , _varianceOfDerivative = 5.38580681789e-12
+                        , _varianceOfSecondDerivative = 1.08713819197e-11
+                        , _maximum = 7.02089309925e-5
+                        , _mean = 1.51174083385e-6
+                        , _median = 1.87970030652e-7
+                        , _minimum = 3.40586238765e-24
+                        , _variance = 1.7141042058e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 8.46184207148e-7
+                        , _meanOfSecondDerivative = 1.17397314625e-6
+                        , _varianceOfDerivative = 4.62561412784e-12
+                        , _varianceOfSecondDerivative = 9.37179934352e-12
+                        , _maximum = 6.28581983619e-5
+                        , _mean = 1.25093572478e-6
+                        , _median = 2.20027970954e-7
+                        , _minimum = 5.13134888969e-24
+                        , _variance = 8.64831817271e-12
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 8.73488716024e-7
+                        , _meanOfSecondDerivative = 1.22196331631e-6
+                        , _varianceOfDerivative = 6.42572973997e-12
+                        , _varianceOfSecondDerivative = 1.34689689957e-11
+                        , _maximum = 8.46987386467e-5
+                        , _mean = 1.22280334836e-6
+                        , _median = 1.98052063638e-7
+                        , _minimum = 4.90798410767e-24
+                        , _variance = 1.00266470474e-11
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 7.74859927333e-7
+                        , _meanOfSecondDerivative = 1.08578205982e-6
+                        , _varianceOfDerivative = 5.71748941594e-12
+                        , _varianceOfSecondDerivative = 1.26131475056e-11
+                        , _maximum = 9.82924466371e-5
+                        , _mean = 1.04789012312e-6
+                        , _median = 1.67345220348e-7
+                        , _minimum = 5.520203279e-24
+                        , _variance = 7.88799407736e-12
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 5.10961569944e-7
+                        , _meanOfSecondDerivative = 7.22105653495e-7
+                        , _varianceOfDerivative = 1.78670891016e-12
+                        , _varianceOfSecondDerivative = 3.89903647563e-12
+                        , _maximum = 5.16496693308e-5
+                        , _mean = 6.62286481656e-7
+                        , _median = 1.1582023518e-7
+                        , _minimum = 6.47023675019e-24
+                        , _variance = 2.5951068551e-12
+                        } 
+                    , StatisticalUnits 
+                        { _meanOfDerivative = 3.45927873013e-7
+                        , _meanOfSecondDerivative = 4.88197088089e-7
+                        , _varianceOfDerivative = 7.61862307182e-13
+                        , _varianceOfSecondDerivative = 1.60830051534e-12
+                        , _maximum = 2.83736026176e-5
+                        , _mean = 4.43892247404e-7
+                        , _median = 8.42938447931e-8
+                        , _minimum = 6.18771923319e-24
+                        , _variance = 1.13391923889e-12
+                        } 
+                    ] 
+                , _crest = StatisticalUnits 
+                    { _meanOfDerivative = 3.44843935966
+                    , _meanOfSecondDerivative = 5.51559734344
+                    , _varianceOfDerivative = 9.92917728424
+                    , _varianceOfSecondDerivative = 23.8137435913
+                    , _maximum = 38.0192146301
+                    , _mean = 14.620434761
+                    , _median = 13.7680702209
+                    , _minimum = 1.66069960594
+                    , _variance = 32.3876800537
+                    } 
+                , _flatnessDb = StatisticalUnits 
+                    { _meanOfDerivative = 3.54417525232e-2
+                    , _meanOfSecondDerivative = 4.99523431063e-2
+                    , _varianceOfDerivative = 1.3550525764e-3
+                    , _varianceOfSecondDerivative = 3.01439198665e-3
+                    , _maximum = 0.726631104946
+                    , _mean = 0.23313640058
+                    , _median = 0.226437553763
+                    , _minimum = 3.6257179454e-3
+                    , _variance = 7.24090263247e-3
+                    } 
+                , _kurtosis = StatisticalUnits 
+                    { _meanOfDerivative = 9.72354793549
+                    , _meanOfSecondDerivative = 15.5227155685
+                    , _varianceOfDerivative = 400.441436768
+                    , _varianceOfSecondDerivative = 1005.33538818
+                    , _maximum = 459.171661377
+                    , _mean = 14.8208799362
+                    , _median = 6.50086116791
+                    , _minimum = -1.93971157074
+                    , _variance = 693.944946289
+                    } 
+                , _skewness = StatisticalUnits 
+                    { _meanOfDerivative = 0.945920348167
+                    , _meanOfSecondDerivative = 1.42494142056
+                    , _varianceOfDerivative = 1.39210259914
+                    , _varianceOfSecondDerivative = 3.20439600945
+                    , _maximum = 18.1332435608
+                    , _mean = 2.05814599991
+                    , _median = 1.66616225243
+                    , _minimum = -2.57146263123
+                    , _variance = 4.30257415771
+                    } 
+                , _spread = StatisticalUnits 
+                    { _meanOfDerivative = 6.61143398285
+                    , _meanOfSecondDerivative = 10.1058635712
+                    , _varianceOfDerivative = 170.230941772
+                    , _varianceOfSecondDerivative = 388.855682373
+                    , _maximum = 262.540313721
+                    , _mean = 18.9547748566
+                    , _median = 14.3255081177
+                    , _minimum = 0.35276940465
+                    , _variance = 420.443054199
+                    } 
+                } 
+            )
+        , _mfcc = CepstralCoefficients 
+            { _covariance = 
+                [ 
+                    [ 15827.9160156
+                    , 108.3540802
+                    , -493.476470947
+                    , -30.2230319977
+                    , -280.885314941
+                    , 446.811035156
+                    , 39.8776092529
+                    , 176.827331543
+                    , -112.953666687
+                    , -197.518417358
+                    , -226.790725708
+                    , -190.419921875
+                    , -104.038879395
+                    ] 
+                , 
+                    [ 108.3540802
+                    , 2232.03515625
+                    , 3.14139318466
+                    , -185.029754639
+                    , -18.088104248
+                    , -67.3524780273
+                    , 102.596549988
+                    , -58.3552055359
+                    , 68.0028457642
+                    , 94.6213378906
+                    , 3.21430516243
+                    , 65.8879852295
+                    , 76.5625915527
+                    ] 
+                , 
+                    [ -493.476470947
+                    , 3.14139318466
+                    , 1038.92602539
+                    , 352.059692383
+                    , 50.1333656311
+                    , 49.0608291626
+                    , -27.4506626129
+                    , 2.80126023293
+                    , -21.2822551727
+                    , -18.8029499054
+                    , 70.2968826294
+                    , 31.8528118134
+                    , -27.1033535004
+                    ] 
+                , 
+                    [ -30.2230319977
+                    , -185.029754639
+                    , 352.059692383
+                    , 539.849731445
+                    , 102.875137329
+                    , -12.6390676498
+                    , -40.6464653015
+                    , 26.3132457733
+                    , 15.7946767807
+                    , -42.3783340454
+                    , 20.5363998413
+                    , 52.9700202942
+                    , -18.0990257263
+                    ] 
+                , 
+                    [ -280.885314941
+                    , -18.088104248
+                    , 50.1333656311
+                    , 102.875137329
+                    , 306.510223389
+                    , 36.7897491455
+                    , 26.218038559
+                    , 64.235168457
+                    , 66.6302185059
+                    , 27.0685157776
+                    , -9.40064811707
+                    , 34.1314659119
+                    , 48.7372703552
+                    ] 
+                , 
+                    [ 446.811035156
+                    , -67.3524780273
+                    , 49.0608291626
+                    , -12.6390676498
+                    , 36.7897491455
+                    , 276.348052979
+                    , 122.477470398
+                    , 60.7329444885
+                    , 6.04972743988
+                    , 10.6406879425
+                    , 30.5646800995
+                    , -40.6567382812
+                    , -2.72534036636
+                    ] 
+                , 
+                    [ 39.8776092529
+                    , 102.596549988
+                    , -27.4506626129
+                    , -40.6464653015
+                    , 26.218038559
+                    , 122.477470398
+                    , 219.352767944
+                    , 73.4347076416
+                    , 9.52083778381
+                    , 30.3235721588
+                    , 8.0339641571
+                    , -12.2348747253
+                    , 6.45872449875
+                    ] 
+                , 
+                    [ 176.827331543
+                    , -58.3552055359
+                    , 2.80126023293
+                    , 26.3132457733
+                    , 64.235168457
+                    , 60.7329444885
+                    , 73.4347076416
+                    , 172.059844971
+                    , 69.2147979736
+                    , 9.23132038116
+                    , 26.8345756531
+                    , 19.07721138
+                    , 26.3078384399
+                    ] 
+                , 
+                    [ -112.953666687
+                    , 68.0028457642
+                    , -21.2822551727
+                    , 15.7946767807
+                    , 66.6302185059
+                    , 6.04972743988
+                    , 9.52083778381
+                    , 69.2147979736
+                    , 158.463989258
+                    , 59.315612793
+                    , 23.5975952148
+                    , 23.3770618439
+                    , 43.8276786804
+                    ] 
+                , 
+                    [ -197.518417358
+                    , 94.6213378906
+                    , -18.8029499054
+                    , -42.3783340454
+                    , 27.0685157776
+                    , 10.6406879425
+                    , 30.3235721588
+                    , 9.23132038116
+                    , 59.315612793
+                    , 158.874801636
+                    , 61.1160850525
+                    , 17.4705524445
+                    , 22.5733833313
+                    ] 
+                , 
+                    [ -226.790725708
+                    , 3.21430516243
+                    , 70.2968826294
+                    , 20.5363998413
+                    , -9.40064811707
+                    , 30.5646800995
+                    , 8.0339641571
+                    , 26.8345756531
+                    , 23.5975952148
+                    , 61.1160850525
+                    , 162.311233521
+                    , 76.2727508545
+                    , 20.2160511017
+                    ] 
+                , 
+                    [ -190.419921875
+                    , 65.8879852295
+                    , 31.8528118134
+                    , 52.9700202942
+                    , 34.1314659119
+                    , -40.6567382812
+                    , -12.2348747253
+                    , 19.07721138
+                    , 23.3770618439
+                    , 17.4705524445
+                    , 76.2727508545
+                    , 152.581176758
+                    , 64.4786224365
+                    ] 
+                , 
+                    [ -104.038879395
+                    , 76.5625915527
+                    , -27.1033535004
+                    , -18.0990257263
+                    , 48.7372703552
+                    , -2.72534036636
+                    , 6.45872449875
+                    , 26.3078384399
+                    , 43.8276786804
+                    , 22.5733833313
+                    , 20.2160511017
+                    , 64.4786224365
+                    , 126.586250305
+                    ] 
+                ] 
+            , _inverseCovariance = 
+                [ 
+                    [ 7.70602855482e-5
+                    , -2.6868088753e-5
+                    , 5.58240935788e-5
+                    , -5.34354039701e-5
+                    , 1.14567505079e-4
+                    , -2.11951366509e-4
+                    , 1.46186212078e-4
+                    , -1.70178769622e-4
+                    , 8.25915922178e-5
+                    , -1.44234199979e-5
+                    , 1.67823862284e-4
+                    , -4.29258871009e-5
+                    , 3.21726365655e-5
+                    ] 
+                , 
+                    [ -2.6868088753e-5
+                    , 5.45581860933e-4
+                    , -1.37781607918e-4
+                    , 2.36615320318e-4
+                    , 7.86730197433e-6
+                    , 3.0001741834e-4
+                    , -5.43391215615e-4
+                    , 5.00609108713e-4
+                    , -3.93660506234e-4
+                    , -1.03981983557e-4
+                    , 1.12316738523e-4
+                    , -2.73358949926e-4
+                    , -1.44476798596e-4
+                    ] 
+                , 
+                    [ 5.58240935788e-5
+                    , -1.37781607918e-4
+                    , 1.37439765967e-3
+                    , -9.35826217756e-4
+                    , 3.69185763702e-5
+                    , -4.72720799735e-4
+                    , 3.55310796294e-4
+                    , -1.11358080176e-4
+                    , 4.12795925513e-4
+                    , 2.44079637923e-5
+                    , -4.84754214995e-4
+                    , 2.12674087379e-4
+                    , 9.21202954487e-5
+                    ] 
+                , 
+                    [ -5.34354039701e-5
+                    , 2.36615320318e-4
+                    , -9.35826217756e-4
+                    , 2.94703966938e-3
+                    , -8.97825288121e-4
+                    , 3.5399015178e-4
+                    , 3.29624672304e-5
+                    , 8.06598109193e-5
+                    , -6.51467766147e-4
+                    , 7.99612200353e-4
+                    , 2.46015406447e-5
+                    , -1.14962738007e-3
+                    , 1.03343056981e-3
+                    ] 
+                , 
+                    [ 1.14567505079e-4
+                    , 7.86730197433e-6
+                    , 3.69185763702e-5
+                    , -8.97825288121e-4
+                    , 4.58746217191e-3
+                    , -1.06515001971e-3
+                    , 3.1929303077e-4
+                    , -1.16104527842e-3
+                    , -7.14449910447e-4
+                    , -1.06419099029e-3
+                    , 2.03110906295e-3
+                    , -1.08724471647e-3
+                    , -9.28653927986e-4
+                    ] 
+                , 
+                    [ -2.11951366509e-4
+                    , 3.0001741834e-4
+                    , -4.72720799735e-4
+                    , 3.5399015178e-4
+                    , -1.06515001971e-3
+                    , 6.51300465688e-3
+                    , -3.47160850652e-3
+                    , 1.20819320728e-4
+                    , -1.50056090206e-4
+                    , 9.75583156105e-4
+                    , -2.92966957204e-3
+                    , 3.01557569765e-3
+                    , -8.94092605449e-4
+                    ] 
+                , 
+                    [ 1.46186212078e-4
+                    , -5.43391215615e-4
+                    , 3.55310796294e-4
+                    , 3.29624672304e-5
+                    , 3.1929303077e-4
+                    , -3.47160850652e-3
+                    , 8.00596456975e-3
+                    , -3.56572214514e-3
+                    , 1.91140628885e-3
+                    , -1.90672569443e-3
+                    , 1.60609569866e-3
+                    , -6.25719549134e-4
+                    , 4.04940539738e-4
+                    ] 
+                , 
+                    [ -1.70178769622e-4
+                    , 5.00609108713e-4
+                    , -1.11358080176e-4
+                    , 8.06598109193e-5
+                    , -1.16104527842e-3
+                    , 1.20819320728e-4
+                    , -3.56572214514e-3
+                    , 1.01237772033e-2
+                    , -4.52057924122e-3
+                    , 2.25834804587e-3
+                    , -1.86479161493e-3
+                    , -1.65005854797e-4
+                    , -3.83095873985e-4
+                    ] 
+                , 
+                    [ 8.25915922178e-5
+                    , -3.93660506234e-4
+                    , 4.12795925513e-4
+                    , -6.51467766147e-4
+                    , -7.14449910447e-4
+                    , -1.50056090206e-4
+                    , 1.91140628885e-3
+                    , -4.52057924122e-3
+                    , 1.05892214924e-2
+                    , -3.66953061894e-3
+                    , 4.39853727585e-4
+                    , 6.80187309626e-4
+                    , -2.01360322535e-3
+                    ] 
+                , 
+                    [ -1.44234199979e-5
+                    , -1.03981983557e-4
+                    , 2.44079637923e-5
+                    , 7.99612200353e-4
+                    , -1.06419099029e-3
+                    , 9.75583156105e-4
+                    , -1.90672569443e-3
+                    , 2.25834804587e-3
+                    , -3.66953061894e-3
+                    , 9.91418305784e-3
+                    , -4.60530538112e-3
+                    , 1.7058243975e-3
+                    , -4.01593133574e-4
+                    ] 
+                , 
+                    [ 1.67823862284e-4
+                    , 1.12316738523e-4
+                    , -4.84754214995e-4
+                    , 2.46015406447e-5
+                    , 2.03110906295e-3
+                    , -2.92966957204e-3
+                    , 1.60609569866e-3
+                    , -1.86479161493e-3
+                    , 4.39853727585e-4
+                    , -4.60530538112e-3
+                    , 1.22468173504e-2
+                    , -7.00467731804e-3
+                    , 1.71130115632e-3
+                    ] 
+                , 
+                    [ -4.29258871009e-5
+                    , -2.73358949926e-4
+                    , 2.12674087379e-4
+                    , -1.14962738007e-3
+                    , -1.08724471647e-3
+                    , 3.01557569765e-3
+                    , -6.25719549134e-4
+                    , -1.65005854797e-4
+                    , 6.80187309626e-4
+                    , 1.7058243975e-3
+                    , -7.00467731804e-3
+                    , 1.36483451352e-2
+                    , -5.81205775961e-3
+                    ] 
+                , 
+                    [ 3.21726365655e-5
+                    , -1.44476798596e-4
+                    , 9.21202954487e-5
+                    , 1.03343056981e-3
+                    , -9.28653927986e-4
+                    , -8.94092605449e-4
+                    , 4.04940539738e-4
+                    , -3.83095873985e-4
+                    , -2.01360322535e-3
+                    , -4.01593133574e-4
+                    , 1.71130115632e-3
+                    , -5.81205775961e-3
+                    , 1.2034249492e-2
+                    ] 
+                ] 
+            , _mean = 
+                [ -726.610534668
+                , 121.916557312
+                , 19.8852348328
+                , 0.850964903831
+                , -13.743481636
+                , -0.592916071415
+                , -3.63435173035
+                , -6.13661718369
+                , -4.42763996124
+                , 0.364783942699
+                , -8.78705692291
+                , -2.77655887604
+                , -1.05087280273
+                ] 
+            } 
+        , _pitchSalience = StatisticalUnits 
+            { _meanOfDerivative = 7.89903476834e-2
+            , _meanOfSecondDerivative = 0.127391532063
+            , _varianceOfDerivative = 6.01427443326e-3
+            , _varianceOfSecondDerivative = 1.6073923558e-2
+            , _maximum = 0.926507174969
+            , _mean = 0.532888650894
+            , _median = 0.537878453732
+            , _minimum = 9.13110151887e-2
+            , _variance = 1.57706439495e-2
+            } 
+        , _silenceRate = Output 
+            { _20dB = StatisticalUnits 
+                { _meanOfDerivative = 0.0
+                , _meanOfSecondDerivative = 0.0
+                , _varianceOfDerivative = 0.0
+                , _varianceOfSecondDerivative = 0.0
+                , _maximum = 1.0
+                , _mean = 1.0
+                , _median = 1.0
+                , _minimum = 1.0
+                , _variance = 0.0
+                } 
+            , _30dB = StatisticalUnits 
+                { _meanOfDerivative = 8.57728905976e-3
+                , _meanOfSecondDerivative = 1.71561762691e-2
+                , _varianceOfDerivative = 8.50402098149e-3
+                , _varianceOfSecondDerivative = 2.52540465444e-2
+                , _maximum = 1.0
+                , _mean = 0.995618522167
+                , _median = 1.0
+                , _minimum = 0.0
+                , _variance = 4.3621645309e-3
+                } 
+            , _60dB = StatisticalUnits 
+                { _meanOfDerivative = 6.32108896971e-2
+                , _meanOfSecondDerivative = 0.126433566213
+                , _varianceOfDerivative = 5.92087320983e-2
+                , _varianceOfSecondDerivative = 0.124810583889
+                , _maximum = 1.0
+                , _mean = 0.194928690791
+                , _median = 0.0
+                , _minimum = 0.0
+                , _variance = 0.156938523054
+                } 
+            } 
+        , _spectral = Spectral 
+            { _centroid = StatisticalUnits 
+                { _meanOfDerivative = 214.638000488
+                , _meanOfSecondDerivative = 318.93838501
+                , _varianceOfDerivative = 108926.53125
+                , _varianceOfSecondDerivative = 229604.734375
+                , _maximum = 11800.1542969
+                , _mean = 1073.49951172
+                , _median = 893.015075684
+                , _minimum = 107.969955444
+                , _variance = 1232639.875
+                } 
+            , _complexity = StatisticalUnits 
+                { _meanOfDerivative = 2.95040082932
+                , _meanOfSecondDerivative = 4.22825193405
+                , _varianceOfDerivative = 22.6958618164
+                , _varianceOfSecondDerivative = 35.8405647278
+                , _maximum = 55.0
+                , _mean = 10.780087471
+                , _median = 10.0
+                , _minimum = 0.0
+                , _variance = 68.9093780518
+                } 
+            , _contrastCoefficients = 
+                [ StatisticalUnits 
+                    { _meanOfDerivative = 5.84989711642e-2
+                    , _meanOfSecondDerivative = 9.07217785716e-2
+                    , _varianceOfDerivative = 3.49182658829e-3
+                    , _varianceOfSecondDerivative = 7.42009142414e-3
+                    , _maximum = -0.224045827985
+                    , _mean = -0.62175142765
+                    , _median = -0.635047674179
+                    , _minimum = -0.982376515865
+                    , _variance = 1.67712178081e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 5.09524382651e-2
+                    , _meanOfSecondDerivative = 8.17887112498e-2
+                    , _varianceOfDerivative = 2.03548767604e-3
+                    , _varianceOfSecondDerivative = 4.93063544855e-3
+                    , _maximum = -0.284878045321
+                    , _mean = -0.712342917919
+                    , _median = -0.717911958694
+                    , _minimum = -0.975799500942
+                    , _variance = 8.19697789848e-3
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 4.59710620344e-2
+                    , _meanOfSecondDerivative = 6.93447366357e-2
+                    , _varianceOfDerivative = 1.80284737144e-3
+                    , _varianceOfSecondDerivative = 3.70326638222e-3
+                    , _maximum = -0.32147988677
+                    , _mean = -0.709794640541
+                    , _median = -0.72439968586
+                    , _minimum = -0.973560214043
+                    , _variance = 1.43718831241e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 3.62354144454e-2
+                    , _meanOfSecondDerivative = 5.50590902567e-2
+                    , _varianceOfDerivative = 1.12266361248e-3
+                    , _varianceOfSecondDerivative = 2.35744216479e-3
+                    , _maximum = -0.428816705942
+                    , _mean = -0.754660844803
+                    , _median = -0.767443716526
+                    , _minimum = -0.973409891129
+                    , _variance = 8.68238508701e-3
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 2.46561001986e-2
+                    , _meanOfSecondDerivative = 3.81652675569e-2
+                    , _varianceOfDerivative = 5.38815977052e-4
+                    , _varianceOfSecondDerivative = 1.17311615031e-3
+                    , _maximum = -0.511689543724
+                    , _mean = -0.808780729771
+                    , _median = -0.814337193966
+                    , _minimum = -0.967875003815
+                    , _variance = 2.79540685005e-3
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 1.90896838903e-2
+                    , _meanOfSecondDerivative = 2.97843199223e-2
+                    , _varianceOfDerivative = 4.05479106121e-4
+                    , _varianceOfSecondDerivative = 9.18303965591e-4
+                    , _maximum = -0.618435740471
+                    , _mean = -0.797577381134
+                    , _median = -0.800547301769
+                    , _minimum = -0.964740335941
+                    , _variance = 1.99681543745e-3
+                    } 
+                ] 
+            , _contrastValleys = 
+                [ StatisticalUnits 
+                    { _meanOfDerivative = 0.543672680855
+                    , _meanOfSecondDerivative = 0.807079076767
+                    , _varianceOfDerivative = 0.334435611963
+                    , _varianceOfSecondDerivative = 0.559821486473
+                    , _maximum = -5.39020204544
+                    , _mean = -8.7082529068
+                    , _median = -8.15163803101
+                    , _minimum = -28.2735214233
+                    , _variance = 5.92976522446
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.466087937355
+                    , _meanOfSecondDerivative = 0.707611083984
+                    , _varianceOfDerivative = 0.246644854546
+                    , _varianceOfSecondDerivative = 0.452537417412
+                    , _maximum = -4.72347021103
+                    , _mean = -7.41945981979
+                    , _median = -6.91641902924
+                    , _minimum = -27.9109649658
+                    , _variance = 5.89356136322
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.480346232653
+                    , _meanOfSecondDerivative = 0.701237499714
+                    , _varianceOfDerivative = 0.277650713921
+                    , _varianceOfSecondDerivative = 0.500305950642
+                    , _maximum = -5.40242528915
+                    , _mean = -8.33922100067
+                    , _median = -7.90857696533
+                    , _minimum = -27.7090110779
+                    , _variance = 5.57945108414
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.464768260717
+                    , _meanOfSecondDerivative = 0.650979697704
+                    , _varianceOfDerivative = 0.274512171745
+                    , _varianceOfSecondDerivative = 0.489005923271
+                    , _maximum = -5.84081697464
+                    , _mean = -9.12721157074
+                    , _median = -8.76321601868
+                    , _minimum = -27.6952285767
+                    , _variance = 5.23851633072
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.471008628607
+                    , _meanOfSecondDerivative = 0.623400270939
+                    , _varianceOfDerivative = 0.325373470783
+                    , _varianceOfSecondDerivative = 0.575780391693
+                    , _maximum = -5.96210622787
+                    , _mean = -8.99566078186
+                    , _median = -8.66401004791
+                    , _minimum = -27.5353450775
+                    , _variance = 5.46677064896
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.522917330265
+                    , _meanOfSecondDerivative = 0.59538346529
+                    , _varianceOfDerivative = 0.336287528276
+                    , _varianceOfSecondDerivative = 0.543117702007
+                    , _maximum = -7.58521413803
+                    , _mean = -10.8554439545
+                    , _median = -10.4713144302
+                    , _minimum = -27.4745140076
+                    , _variance = 5.12503910065
+                    } 
+                ] 
+            , _decrease = StatisticalUnits 
+                { _meanOfDerivative = 2.81160672522e-9
+                , _meanOfSecondDerivative = 4.47039205653e-9
+                , _varianceOfDerivative = 3.38154412262e-17
+                , _varianceOfSecondDerivative = 8.48589237946e-17
+                , _maximum = 1.56632562036e-20
+                , _mean = -4.83425521836e-9
+                , _median = -2.9911626509e-9
+                , _minimum = -4.785902874e-8
+                , _variance = 3.82590190809e-17
+                } 
+            , _energy = StatisticalUnits 
+                { _meanOfDerivative = 1.11112361774e-2
+                , _meanOfSecondDerivative = 1.75324436277e-2
+                , _varianceOfDerivative = 5.14245766681e-4
+                , _varianceOfSecondDerivative = 1.28143141046e-3
+                , _maximum = 0.187590658665
+                , _mean = 1.96148138493e-2
+                , _median = 1.22024416924e-2
+                , _minimum = 1.00721421105e-20
+                , _variance = 6.0667807702e-4
+                } 
+            , _energyBand = Output 
+                { _high = StatisticalUnits 
+                    { _meanOfDerivative = 3.70306079276e-4
+                    , _meanOfSecondDerivative = 4.82035626192e-4
+                    , _varianceOfDerivative = 5.05793252614e-7
+                    , _varianceOfSecondDerivative = 8.17951388399e-7
+                    , _maximum = 1.013116166e-2
+                    , _mean = 5.90322131757e-4
+                    , _median = 1.20825476188e-4
+                    , _minimum = 6.98267018247e-21
+                    , _variance = 1.34869389967e-6
+                    } 
+                , _low = StatisticalUnits 
+                    { _meanOfDerivative = 3.25729162432e-3
+                    , _meanOfSecondDerivative = 5.64943999052e-3
+                    , _varianceOfDerivative = 1.19308569992e-4
+                    , _varianceOfSecondDerivative = 3.22312669596e-4
+                    , _maximum = 9.66868698597e-2
+                    , _mean = 3.07930097915e-3
+                    , _median = 6.15069991909e-4
+                    , _minimum = 1.30922913593e-23
+                    , _variance = 8.40788852656e-5
+                    } 
+                , _middleHigh = StatisticalUnits 
+                    { _meanOfDerivative = 2.20479699783e-3
+                    , _meanOfSecondDerivative = 3.12742870301e-3
+                    , _varianceOfDerivative = 2.12280992855e-5
+                    , _varianceOfSecondDerivative = 4.34666544606e-5
+                    , _maximum = 0.11910816282
+                    , _mean = 6.19981670752e-3
+                    , _median = 1.35701976251e-3
+                    , _minimum = 1.20566643184e-21
+                    , _variance = 8.84383262019e-5
+                    } 
+                , _middleLow = StatisticalUnits 
+                    { _meanOfDerivative = 7.27802282199e-3
+                    , _meanOfSecondDerivative = 1.1642338708e-2
+                    , _varianceOfDerivative = 3.65777115803e-4
+                    , _varianceOfSecondDerivative = 9.21591185033e-4
+                    , _maximum = 0.172885924578
+                    , _mean = 1.04231871665e-2
+                    , _median = 5.16349030659e-3
+                    , _minimum = 1.62529820096e-22
+                    , _variance = 3.49505542545e-4
+                    } 
+                } 
+            , _entropy = StatisticalUnits 
+                { _meanOfDerivative = 0.326089471579
+                , _meanOfSecondDerivative = 0.430217385292
+                , _varianceOfDerivative = 0.128068462014
+                , _varianceOfSecondDerivative = 0.243783250451
+                , _maximum = 9.81832695007
+                , _mean = 7.1837310791
+                , _median = 7.25410604477
+                , _minimum = 4.22873544693
+                , _variance = 0.63853007555
+                } 
+            , _flux = StatisticalUnits 
+                { _meanOfDerivative = 3.19219119847e-2
+                , _meanOfSecondDerivative = 4.76825982332e-2
+                , _varianceOfDerivative = 2.2919815965e-3
+                , _varianceOfSecondDerivative = 4.68959100544e-3
+                , _maximum = 0.40982785821
+                , _mean = 7.20009505749e-2
+                , _median = 5.1544521004e-2
+                , _minimum = 6.36729974302e-11
+                , _variance = 4.38552582636e-3
+                } 
+            , _kurtosis = StatisticalUnits 
+                { _meanOfDerivative = 3.67200136185
+                , _meanOfSecondDerivative = 5.34672117233
+                , _varianceOfDerivative = 65.5895233154
+                , _varianceOfSecondDerivative = 132.382019043
+                , _maximum = 190.206222534
+                , _mean = 7.64792919159
+                , _median = 4.48412752151
+                , _minimum = -1.50683414936
+                , _variance = 135.673797607
+                } 
+            , _rms = StatisticalUnits 
+                { _meanOfDerivative = 9.91829438135e-4
+                , _meanOfSecondDerivative = 1.46015221253e-3
+                , _varianceOfDerivative = 2.39834616877e-6
+                , _varianceOfSecondDerivative = 5.37637151865e-6
+                , _maximum = 1.35283134878e-2
+                , _mean = 3.68450791575e-3
+                , _median = 3.45033640042e-3
+                , _minimum = 3.13472164892e-12
+                , _variance = 5.56077748115e-6
+                } 
+            , _rolloff = StatisticalUnits 
+                { _meanOfDerivative = 581.062194824
+                , _meanOfSecondDerivative = 980.147888184
+                , _varianceOfDerivative = 2205938.0
+                , _varianceOfSecondDerivative = 4881293.5
+                , _maximum = 19659.8144531
+                , _mean = 1525.48425293
+                , _median = 882.861328125
+                , _minimum = 21.533203125
+                , _variance = 5978489.5
+                } 
+            , _skewness = StatisticalUnits 
+                { _meanOfDerivative = 0.432114303112
+                , _meanOfSecondDerivative = 0.599109530449
+                , _varianceOfDerivative = 0.383597642183
+                , _varianceOfSecondDerivative = 0.75456994772
+                , _maximum = 11.5379981995
+                , _mean = 2.05734205246
+                , _median = 1.85927534103
+                , _minimum = -0.369505554438
+                , _variance = 1.24115395546
+                } 
+            , _spread = StatisticalUnits 
+                { _meanOfDerivative = 1098065.5
+                , _meanOfSecondDerivative = 1430675.5
+                , _varianceOfDerivative = 1.76555032576e12
+                , _varianceOfSecondDerivative = 3.28595433062e12
+                , _maximum = 4.2598288e7
+                , _mean = 5752815.5
+                , _median = 5227952.5
+                , _minimum = 527703.5
+                , _variance = 1.7149487743e13
+                } 
+            , _strongPeak = StatisticalUnits 
+                { _meanOfDerivative = 0.604491949081
+                , _meanOfSecondDerivative = 0.964793920517
+                , _varianceOfDerivative = 0.7756472826
+                , _varianceOfSecondDerivative = 1.77727532387
+                , _maximum = 11.0618925095
+                , _mean = 1.47952508926
+                , _median = 0.703752398491
+                , _minimum = 0.0
+                , _variance = 2.91879200935
+                } 
+            } 
+        , _zeroCrossingRate = StatisticalUnits 
+            { _meanOfDerivative = 1.49658704177e-2
+            , _meanOfSecondDerivative = 1.68149489909e-2
+            , _varianceOfDerivative = 4.26894926932e-4
+            , _varianceOfSecondDerivative = 5.258913734e-4
+            , _maximum = 0.52685546875
+            , _mean = 6.5147832036e-2
+            , _median = 4.931640625e-2
+            , _minimum = 2.9296875e-3
+            , _variance = 3.76233598217e-3
+            } 
+        } 
+    , _tonal = Tonal 
+        { _chords = Output 
+            { _changesRate = 8.55704694986e-2
+            , _histogram = 
+                [ 22.0171508789
+                , 9.19090270996
+                , 3.93363165855
+                , 0.745712161064
+                , 7.79269218445
+                , 6.99105167389
+                , 7.40119314194
+                , 1.26771068573
+                , 1.92020881176
+                , 0.0
+                , 0.484712898731
+                , 1.86428036541e-2
+                , 7.17747926712
+                , 1.39821028709
+                , 4.10141706467
+                , 1.39821028709
+                , 0.70842653513
+                , 2.05070853233
+                , 0.0
+                , 5.59284128249e-2
+                , 0.0
+                , 3.43027591705
+                , 5.92841148376
+                , 11.9873228073
+                ] 
+            , _key = "F" 
+            , _numberRate = 2.98284855671e-3
+            , _scale = Major
+            , _strength = StatisticalUnits 
+                { _meanOfDerivative = 1.2807385996e-2
+                , _meanOfSecondDerivative = 1.38902617618e-2
+                , _varianceOfDerivative = 4.48731239885e-4
+                , _varianceOfSecondDerivative = 7.92621809524e-4
+                , _maximum = 0.789064526558
+                , _mean = 0.47379475832
+                , _median = 0.477186977863
+                , _minimum = -1.0
+                , _variance = 2.54771746695e-2
+                } 
+            } 
+        , _highResolutionFeatures = Output 
+            { _tuningEqualTemperedDeviation = 5.89020960033e-2
+            , _tuningNonTemperedEnergyRatio = 0.769005656242
+            } 
+        , _hpcp = Output 
+            { _harmonicPitchClassProfile = 
+                [ StatisticalUnits 
+                    { _meanOfDerivative = 0.161905050278
+                    , _meanOfSecondDerivative = 0.275962740183
+                    , _varianceOfDerivative = 5.49352951348e-2
+                    , _varianceOfSecondDerivative = 0.135317623615
+                    , _maximum = 1.0
+                    , _mean = 0.254023581743
+                    , _median = 7.01429396868e-2
+                    , _minimum = 0.0
+                    , _variance = 0.116667971015
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.150132790208
+                    , _meanOfSecondDerivative = 0.25792708993
+                    , _varianceOfDerivative = 4.71441484988e-2
+                    , _varianceOfSecondDerivative = 0.123102582991
+                    , _maximum = 1.0
+                    , _mean = 0.194165229797
+                    , _median = 5.47129809856e-2
+                    , _minimum = 0.0
+                    , _variance = 7.6689273119e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.124450020492
+                    , _meanOfSecondDerivative = 0.216187611222
+                    , _varianceOfDerivative = 4.61320355535e-2
+                    , _varianceOfSecondDerivative = 0.119245663285
+                    , _maximum = 1.0
+                    , _mean = 0.131907194853
+                    , _median = 2.0579457283e-2
+                    , _minimum = 0.0
+                    , _variance = 5.9633731842e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.104172281921
+                    , _meanOfSecondDerivative = 0.180754184723
+                    , _varianceOfDerivative = 3.85300144553e-2
+                    , _varianceOfSecondDerivative = 9.6453666687e-2
+                    , _maximum = 1.0
+                    , _mean = 0.122607715428
+                    , _median = 1.2882151641e-2
+                    , _minimum = 0.0
+                    , _variance = 6.04525469244e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 9.07284840941e-2
+                    , _meanOfSecondDerivative = 0.161040812731
+                    , _varianceOfDerivative = 3.3494733274e-2
+                    , _varianceOfSecondDerivative = 8.94991755486e-2
+                    , _maximum = 1.0
+                    , _mean = 8.96087959409e-2
+                    , _median = 1.15974415094e-2
+                    , _minimum = 0.0
+                    , _variance = 3.86434607208e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 8.7780252099e-2
+                    , _meanOfSecondDerivative = 0.153563722968
+                    , _varianceOfDerivative = 2.85970419645e-2
+                    , _varianceOfSecondDerivative = 7.39383324981e-2
+                    , _maximum = 1.0
+                    , _mean = 8.75796377659e-2
+                    , _median = 1.59841999412e-2
+                    , _minimum = 0.0
+                    , _variance = 3.23138907552e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.108039103448
+                    , _meanOfSecondDerivative = 0.184740960598
+                    , _varianceOfDerivative = 3.55838797987e-2
+                    , _varianceOfSecondDerivative = 8.77002775669e-2
+                    , _maximum = 1.0
+                    , _mean = 0.127519100904
+                    , _median = 2.65766624361e-2
+                    , _minimum = 0.0
+                    , _variance = 5.54965175688e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.131009817123
+                    , _meanOfSecondDerivative = 0.224075496197
+                    , _varianceOfDerivative = 4.11524027586e-2
+                    , _varianceOfSecondDerivative = 0.105422362685
+                    , _maximum = 1.0
+                    , _mean = 0.144882798195
+                    , _median = 4.03933152556e-2
+                    , _minimum = 0.0
+                    , _variance = 5.35150691867e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.14831738174
+                    , _meanOfSecondDerivative = 0.253137558699
+                    , _varianceOfDerivative = 4.66052368283e-2
+                    , _varianceOfSecondDerivative = 0.117199778557
+                    , _maximum = 1.0
+                    , _mean = 0.173389807343
+                    , _median = 4.98675853014e-2
+                    , _minimum = 0.0
+                    , _variance = 6.57758638263e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.135248050094
+                    , _meanOfSecondDerivative = 0.233950003982
+                    , _varianceOfDerivative = 4.79456633329e-2
+                    , _varianceOfSecondDerivative = 0.112961776555
+                    , _maximum = 1.0
+                    , _mean = 0.178146615624
+                    , _median = 4.1459992528e-2
+                    , _minimum = 0.0
+                    , _variance = 8.31663832068e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.104771099985
+                    , _meanOfSecondDerivative = 0.184861585498
+                    , _varianceOfDerivative = 3.25852409005e-2
+                    , _varianceOfSecondDerivative = 8.84260609746e-2
+                    , _maximum = 1.0
+                    , _mean = 0.109991118312
+                    , _median = 2.87514496595e-2
+                    , _minimum = 0.0
+                    , _variance = 3.62637713552e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 8.38887915015e-2
+                    , _meanOfSecondDerivative = 0.150423303246
+                    , _varianceOfDerivative = 2.78435889632e-2
+                    , _varianceOfSecondDerivative = 7.78973326087e-2
+                    , _maximum = 1.0
+                    , _mean = 7.43968859315e-2
+                    , _median = 1.56293511391e-2
+                    , _minimum = 0.0
+                    , _variance = 2.5394897908e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 7.86873400211e-2
+                    , _meanOfSecondDerivative = 0.142423287034
+                    , _varianceOfDerivative = 2.60737873614e-2
+                    , _varianceOfSecondDerivative = 7.16527253389e-2
+                    , _maximum = 1.0
+                    , _mean = 7.3916003108e-2
+                    , _median = 1.30838146433e-2
+                    , _minimum = 0.0
+                    , _variance = 2.79104728252e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 7.34841674566e-2
+                    , _meanOfSecondDerivative = 0.132553875446
+                    , _varianceOfDerivative = 2.2411134094e-2
+                    , _varianceOfSecondDerivative = 6.22229799628e-2
+                    , _maximum = 1.0
+                    , _mean = 6.38663247228e-2
+                    , _median = 1.54478028417e-2
+                    , _minimum = 0.0
+                    , _variance = 1.96561831981e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.110086515546
+                    , _meanOfSecondDerivative = 0.18590593338
+                    , _varianceOfDerivative = 3.03927939385e-2
+                    , _varianceOfSecondDerivative = 7.56792873144e-2
+                    , _maximum = 1.0
+                    , _mean = 0.121590420604
+                    , _median = 3.17535325885e-2
+                    , _minimum = 0.0
+                    , _variance = 3.88012379408e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.14116512239
+                    , _meanOfSecondDerivative = 0.242347046733
+                    , _varianceOfDerivative = 5.18945194781e-2
+                    , _varianceOfSecondDerivative = 0.119489192963
+                    , _maximum = 1.0
+                    , _mean = 0.180909022689
+                    , _median = 4.25136014819e-2
+                    , _minimum = 0.0
+                    , _variance = 8.32428187132e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.109163068235
+                    , _meanOfSecondDerivative = 0.189119949937
+                    , _varianceOfDerivative = 3.21869552135e-2
+                    , _varianceOfSecondDerivative = 8.41430276632e-2
+                    , _maximum = 1.0
+                    , _mean = 0.122457176447
+                    , _median = 3.32145728171e-2
+                    , _minimum = 0.0
+                    , _variance = 4.03237268329e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 7.25673362613e-2
+                    , _meanOfSecondDerivative = 0.13003012538
+                    , _varianceOfDerivative = 2.37141437829e-2
+                    , _varianceOfSecondDerivative = 6.39712065458e-2
+                    , _maximum = 1.0
+                    , _mean = 6.44566193223e-2
+                    , _median = 1.16828782484e-2
+                    , _minimum = 0.0
+                    , _variance = 2.2520519793e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 6.66631385684e-2
+                    , _meanOfSecondDerivative = 0.121792070568
+                    , _varianceOfDerivative = 2.51067932695e-2
+                    , _varianceOfSecondDerivative = 6.89169541001e-2
+                    , _maximum = 1.0
+                    , _mean = 5.80099001527e-2
+                    , _median = 6.35244976729e-3
+                    , _minimum = 0.0
+                    , _variance = 2.48490888625e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 5.75731098652e-2
+                    , _meanOfSecondDerivative = 0.102893300354
+                    , _varianceOfDerivative = 1.80731639266e-2
+                    , _varianceOfSecondDerivative = 4.91366535425e-2
+                    , _maximum = 1.0
+                    , _mean = 4.85408753157e-2
+                    , _median = 7.17810029164e-3
+                    , _minimum = 0.0
+                    , _variance = 1.59041397274e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 7.23721161485e-2
+                    , _meanOfSecondDerivative = 0.125698313117
+                    , _varianceOfDerivative = 2.04612873495e-2
+                    , _varianceOfSecondDerivative = 5.33448308706e-2
+                    , _maximum = 1.0
+                    , _mean = 7.23500624299e-2
+                    , _median = 1.60221792758e-2
+                    , _minimum = 0.0
+                    , _variance = 2.08409521729e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 9.33488607407e-2
+                    , _meanOfSecondDerivative = 0.161546781659
+                    , _varianceOfDerivative = 3.22753712535e-2
+                    , _varianceOfSecondDerivative = 7.99688398838e-2
+                    , _maximum = 1.0
+                    , _mean = 0.108093976974
+                    , _median = 2.11838707328e-2
+                    , _minimum = 0.0
+                    , _variance = 4.34496179223e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 9.22540277243e-2
+                    , _meanOfSecondDerivative = 0.159942030907
+                    , _varianceOfDerivative = 2.72703245282e-2
+                    , _varianceOfSecondDerivative = 7.04046487808e-2
+                    , _maximum = 1.0
+                    , _mean = 9.3623444438e-2
+                    , _median = 2.18363963068e-2
+                    , _minimum = 0.0
+                    , _variance = 3.02484221756e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.110942088068
+                    , _meanOfSecondDerivative = 0.194163963199
+                    , _varianceOfDerivative = 3.74483168125e-2
+                    , _varianceOfSecondDerivative = 9.75516662002e-2
+                    , _maximum = 1.0
+                    , _mean = 0.107479199767
+                    , _median = 2.1835282445e-2
+                    , _minimum = 0.0
+                    , _variance = 4.0293443948e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.140393555164
+                    , _meanOfSecondDerivative = 0.244474172592
+                    , _varianceOfDerivative = 4.77324984968e-2
+                    , _varianceOfSecondDerivative = 0.118110202253
+                    , _maximum = 1.0
+                    , _mean = 0.153391286731
+                    , _median = 2.83323787153e-2
+                    , _minimum = 0.0
+                    , _variance = 6.56469017267e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.175478160381
+                    , _meanOfSecondDerivative = 0.312992215157
+                    , _varianceOfDerivative = 5.83550967276e-2
+                    , _varianceOfSecondDerivative = 0.16070343554
+                    , _maximum = 1.0
+                    , _mean = 0.178744181991
+                    , _median = 5.31767904758e-2
+                    , _minimum = 0.0
+                    , _variance = 6.82129263878e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.203678652644
+                    , _meanOfSecondDerivative = 0.358113229275
+                    , _varianceOfDerivative = 8.13609734178e-2
+                    , _varianceOfSecondDerivative = 0.203188449144
+                    , _maximum = 1.0
+                    , _mean = 0.219601243734
+                    , _median = 4.5210506767e-2
+                    , _minimum = 0.0
+                    , _variance = 0.102703496814
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.187427744269
+                    , _meanOfSecondDerivative = 0.331453084946
+                    , _varianceOfDerivative = 7.1942858398e-2
+                    , _varianceOfSecondDerivative = 0.184736415744
+                    , _maximum = 1.0
+                    , _mean = 0.191159397364
+                    , _median = 2.99369730055e-2
+                    , _minimum = 0.0
+                    , _variance = 8.72994139791e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.132327452302
+                    , _meanOfSecondDerivative = 0.243068262935
+                    , _varianceOfDerivative = 5.36086410284e-2
+                    , _varianceOfSecondDerivative = 0.146614477038
+                    , _maximum = 1.0
+                    , _mean = 0.114534050226
+                    , _median = 1.60852707922e-2
+                    , _minimum = 0.0
+                    , _variance = 4.93991523981e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.125009402633
+                    , _meanOfSecondDerivative = 0.221486330032
+                    , _varianceOfDerivative = 4.69500049949e-2
+                    , _varianceOfSecondDerivative = 0.122596696019
+                    , _maximum = 1.0
+                    , _mean = 0.123384483159
+                    , _median = 1.75831690431e-2
+                    , _minimum = 0.0
+                    , _variance = 5.25816716254e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.134133338928
+                    , _meanOfSecondDerivative = 0.231950104237
+                    , _varianceOfDerivative = 5.12016490102e-2
+                    , _varianceOfSecondDerivative = 0.126478940248
+                    , _maximum = 1.0
+                    , _mean = 0.159489184618
+                    , _median = 2.18702815473e-2
+                    , _minimum = 0.0
+                    , _variance = 7.66681879759e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.117049224675
+                    , _meanOfSecondDerivative = 0.204648599029
+                    , _varianceOfDerivative = 4.16967533529e-2
+                    , _varianceOfSecondDerivative = 0.104578204453
+                    , _maximum = 1.0
+                    , _mean = 0.130766347051
+                    , _median = 2.08406951278e-2
+                    , _minimum = 0.0
+                    , _variance = 5.88698424399e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 9.72280353308e-2
+                    , _meanOfSecondDerivative = 0.171004742384
+                    , _varianceOfDerivative = 3.59953530133e-2
+                    , _varianceOfSecondDerivative = 9.27154570818e-2
+                    , _maximum = 1.0
+                    , _mean = 9.15005654097e-2
+                    , _median = 1.2286696583e-2
+                    , _minimum = 0.0
+                    , _variance = 3.98035794497e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 9.46589633822e-2
+                    , _meanOfSecondDerivative = 0.168858274817
+                    , _varianceOfDerivative = 3.76799702644e-2
+                    , _varianceOfSecondDerivative = 9.90897119045e-2
+                    , _maximum = 1.0
+                    , _mean = 8.2523047924e-2
+                    , _median = 9.16463695467e-3
+                    , _minimum = 0.0
+                    , _variance = 3.69891747832e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.106446094811
+                    , _meanOfSecondDerivative = 0.19030469656
+                    , _varianceOfDerivative = 3.78949008882e-2
+                    , _varianceOfSecondDerivative = 0.102552242577
+                    , _maximum = 1.0
+                    , _mean = 9.00052785873e-2
+                    , _median = 1.57246254385e-2
+                    , _minimum = 0.0
+                    , _variance = 3.43862995505e-2
+                    } 
+                , StatisticalUnits 
+                    { _meanOfDerivative = 0.144877225161
+                    , _meanOfSecondDerivative = 0.247015446424
+                    , _varianceOfDerivative = 4.59400638938e-2
+                    , _varianceOfSecondDerivative = 0.115965463221
+                    , _maximum = 1.0
+                    , _mean = 0.175206154585
+                    , _median = 4.81127090752e-2
+                    , _minimum = 0.0
+                    , _variance = 6.63164258003e-2
+                    } 
+                ] 
+            , _transposedHarmonicPitchClassProfile = 
+                [ 1.0
+                , 0.76435905695
+                , 0.519271433353
+                , 0.48266273737
+                , 0.352757781744
+                , 0.344769716263
+                , 0.501997113228
+                , 0.570351779461
+                , 0.682573676109
+                , 0.701299548149
+                , 0.432995706797
+                , 0.292873948812
+                , 0.290980875492
+                , 0.251418888569
+                , 0.478657990694
+                , 0.712174117565
+                , 0.482070118189
+                , 0.253742665052
+                , 0.228364229202
+                , 0.191088065505
+                , 0.284816324711
+                , 0.425527334213
+                , 0.368562012911
+                , 0.423107177019
+                , 0.603846669197
+                , 0.70365190506
+                , 0.864491581917
+                , 0.752526164055
+                , 0.450879603624
+                , 0.485720574856
+                , 0.627851903439
+                , 0.514780342579
+                , 0.360204994678
+                , 0.324863731861
+                , 0.354318588972
+                , 0.689723968506
+                ] 
+            } 
+        , _harmonicPitchClassProfilesEntropy = StatisticalUnits 
+            { _meanOfDerivative = 0.658192157745
+            , _meanOfSecondDerivative = 1.11927235126
+            , _varianceOfDerivative = 0.318047553301
+            , _varianceOfSecondDerivative = 0.843819856644
+            , _maximum = 4.32121753693
+            , _mean = 1.76433420181
+            , _median = 1.77587842941
+            , _minimum = 0.0
+            , _variance = 0.622468590736
+            } 
+        , _key = Output 
+            { _key = "F" 
+            , _scale = Major
+            , _strength = 0.444952905178
+            , _tuningDiatonicStrength = 0.419997960329
+            } 
+        , _tuningFrequency = 441.017791748
+        } 
+    , _rhythm = Rhythm 
+        { _beatsCount = 456
+        , _beatsLoudness = StatisticalUnits 
+            { _meanOfDerivative = 2.39543393254e-2
+            , _meanOfSecondDerivative = 4.57966811955e-2
+            , _varianceOfDerivative = 3.10480361804e-4
+            , _varianceOfSecondDerivative = 1.05155981146e-3
+            , _maximum = 0.106350928545
+            , _mean = 4.23120670021e-2
+            , _median = 4.25811484456e-2
+            , _minimum = 0.0
+            , _variance = 4.6603140072e-4
+            } 
+        , _beatsLoudnessBandRatio = 
+            [ StatisticalUnits 
+                { _meanOfDerivative = 0.19881105423
+                , _meanOfSecondDerivative = 0.341570705175
+                , _varianceOfDerivative = 2.10035834461e-2
+                , _varianceOfSecondDerivative = 6.71616643667e-2
+                , _maximum = 0.933994531631
+                , _mean = 0.436736941338
+                , _median = 0.431770026684
+                , _minimum = 0.0
+                , _variance = 4.07788008451e-2
+                } 
+            , StatisticalUnits 
+                { _meanOfDerivative = 0.119332917035
+                , _meanOfSecondDerivative = 0.210098177195
+                , _varianceOfDerivative = 7.89836607873e-3
+                , _varianceOfSecondDerivative = 2.43527870625e-2
+                , _maximum = 0.73931646347
+                , _mean = 0.164265587926
+                , _median = 0.148478731513
+                , _minimum = 0.0
+                , _variance = 1.26086380333e-2
+                } 
+            , StatisticalUnits 
+                { _meanOfDerivative = 0.151796475053
+                , _meanOfSecondDerivative = 0.281250089407
+                , _varianceOfDerivative = 2.23420411348e-2
+                , _varianceOfSecondDerivative = 6.46857172251e-2
+                , _maximum = 0.794479072094
+                , _mean = 0.201938584447
+                , _median = 0.131840631366
+                , _minimum = 0.0
+                , _variance = 3.1917091459e-2
+                } 
+            , StatisticalUnits 
+                { _meanOfDerivative = 0.150181666017
+                , _meanOfSecondDerivative = 0.266553342342
+                , _varianceOfDerivative = 2.50103771687e-2
+                , _varianceOfSecondDerivative = 7.30568170547e-2
+                , _maximum = 0.942644298077
+                , _mean = 0.165697291493
+                , _median = 9.40018519759e-2
+                , _minimum = 0.0
+                , _variance = 3.1613279134e-2
+                } 
+            , StatisticalUnits 
+                { _meanOfDerivative = 3.06548625231e-2
+                , _meanOfSecondDerivative = 5.65604567528e-2
+                , _varianceOfDerivative = 1.5112219844e-3
+                , _varianceOfSecondDerivative = 4.25873603672e-3
+                , _maximum = 0.356290727854
+                , _mean = 3.10973543674e-2
+                , _median = 2.4425290525e-2
+                , _minimum = 0.0
+                , _variance = 1.25689129345e-3
+                } 
+            , StatisticalUnits 
+                { _meanOfDerivative = 7.6893389225e-2
+                , _meanOfSecondDerivative = 0.152132764459
+                , _varianceOfDerivative = 1.35451590177e-3
+                , _varianceOfSecondDerivative = 4.26785834134e-3
+                , _maximum = 0.215375304222
+                , _mean = 6.98373988271e-2
+                , _median = 6.54891431332e-2
+                , _minimum = 0.0
+                , _variance = 2.25378316827e-3
+                } 
+            ] 
+        , _beatsPosition = 
+            [ 0.49922901392
+            , 1.02167797089
+            , 1.54412698746
+            , 2.08979582787
+            , 2.62385487556
+            , 3.15791368484
+            , 3.7151927948
+            , 4.2492518425
+            , 4.79492044449
+            , 5.34058952332
+            , 5.88625860214
+            , 6.43192720413
+            , 6.97759628296
+            , 7.52326536179
+            , 8.06893444061
+            , 8.6146030426
+            , 9.16027164459
+            , 9.70594120026
+            , 10.2516098022
+            , 10.7972784042
+            , 11.3429479599
+            , 11.8886165619
+            , 12.4226751328
+            , 12.9683446884
+            , 13.5140132904
+            , 14.0480718613
+            , 14.5937414169
+            , 15.1394100189
+            , 15.6850786209
+            , 16.2191371918
+            , 16.7648067474
+            , 17.3220863342
+            , 17.8677539825
+            , 18.4134235382
+            , 18.9590930939
+            , 19.5047607422
+            , 20.0504302979
+            , 20.5960998535
+            , 21.1301574707
+            , 21.6874370575
+            , 22.2331066132
+            , 22.7787742615
+            , 23.312833786
+            , 23.8585033417
+            , 24.40417099
+            , 24.9498405457
+            , 25.4955101013
+            , 26.0295696259
+            , 26.5752372742
+            , 27.1209068298
+            , 27.6781845093
+            , 28.2238540649
+            , 28.7695236206
+            , 29.3035831451
+            , 29.8608608246
+            , 30.3949203491
+            , 30.9405899048
+            , 31.4862575531
+            , 32.0203170776
+            , 32.5659866333
+            , 33.111656189
+            , 33.6457138062
+            , 34.1913833618
+            , 34.7370529175
+            , 35.2943305969
+            , 35.8516082764
+            , 36.397277832
+            , 36.9429473877
+            , 37.4770050049
+            , 38.0110664368
+            , 38.5567321777
+            , 39.1024017334
+            , 39.6480712891
+            , 40.1937408447
+            , 40.7394104004
+            , 41.2850799561
+            , 41.830745697
+            , 42.3764152527
+            , 42.9104766846
+            , 43.4445343018
+            , 44.0018119812
+            , 44.5590934753
+            , 45.0931510925
+            , 45.650428772
+            , 46.1844902039
+            , 46.718547821
+            , 47.2642173767
+            , 47.8098869324
+            , 48.355556488
+            , 48.901222229
+            , 49.4468917847
+            , 49.9925613403
+            , 50.538230896
+            , 51.0839004517
+            , 51.6411781311
+            , 52.1984558105
+            , 52.7325172424
+            , 53.2549667358
+            , 53.8006324768
+            , 54.3579139709
+            , 54.9035835266
+            , 55.4492492676
+            , 55.9833106995
+            , 56.5289802551
+            , 57.0746459961
+            , 57.608707428
+            , 58.1543769836
+            , 58.7000427246
+            , 59.2457122803
+            , 59.7913818359
+            , 60.3370513916
+            , 60.8827209473
+            , 61.4283905029
+            , 61.9740562439
+            , 62.5197257996
+            , 63.0653953552
+            , 63.6226730347
+            , 64.1567306519
+            , 64.7024002075
+            , 65.2480697632
+            , 65.7937393188
+            , 66.3394088745
+            , 66.8734664917
+            , 67.4075241089
+            , 67.964805603
+            , 68.4988632202
+            , 69.0445327759
+            , 69.5902023315
+            , 70.1474838257
+            , 70.6815414429
+            , 71.238822937
+            , 71.7960968018
+            , 72.3417663574
+            , 72.8874359131
+            , 73.4214935303
+            , 73.9555511475
+            , 74.5012207031
+            , 75.0468902588
+            , 75.580947876
+            , 76.1266174316
+            , 76.6722869873
+            , 77.2063446045
+            , 77.7520141602
+            , 78.2976837158
+            , 78.85496521
+            , 79.4122467041
+            , 79.9579086304
+            , 80.503578186
+            , 81.0376434326
+            , 81.5833053589
+            , 82.1289749146
+            , 82.6746444702
+            , 83.2203140259
+            , 83.7543716431
+            , 84.3000411987
+            , 84.8457107544
+            , 85.3913803101
+            , 85.9370498657
+            , 86.4827194214
+            , 87.0283889771
+            , 87.5740585327
+            , 88.1197280884
+            , 88.665397644
+            , 89.2110671997
+            , 89.7451248169
+            , 90.2791824341
+            , 90.8248519897
+            , 91.3705215454
+            , 91.9161911011
+            , 92.4618606567
+            , 93.0075302124
+            , 93.5531921387
+            , 94.0988616943
+            , 94.64453125
+            , 95.1785888672
+            , 95.7358703613
+            , 96.281539917
+            , 96.8272094727
+            , 97.3612670898
+            , 97.9069366455
+            , 98.4526062012
+            , 98.9982757568
+            , 99.5439453125
+            , 100.089614868
+            , 100.635284424
+            , 101.180953979
+            , 101.726615906
+            , 102.260681152
+            , 102.806350708
+            , 103.352012634
+            , 103.886077881
+            , 104.443351746
+            , 105.00063324
+            , 105.534690857
+            , 106.091972351
+            , 106.626029968
+            , 107.171699524
+            , 107.71736908
+            , 108.263038635
+            , 108.808708191
+            , 109.354377747
+            , 109.888435364
+            , 110.434104919
+            , 110.991378784
+            , 111.53704834
+            , 112.082717896
+            , 112.628387451
+            , 113.174057007
+            , 113.719726562
+            , 114.265396118
+            , 114.799453735
+            , 115.345123291
+            , 115.890792847
+            , 116.424850464
+            , 116.958908081
+            , 117.516189575
+            , 118.061859131
+            , 118.607528687
+            , 119.153198242
+            , 119.698867798
+            , 120.244529724
+            , 120.79019928
+            , 121.335868835
+            , 121.881538391
+            , 122.427207947
+            , 122.961265564
+            , 123.50693512
+            , 124.052604675
+            , 124.598274231
+            , 125.132331848
+            , 125.678001404
+            , 126.223670959
+            , 126.757728577
+            , 127.303398132
+            , 127.849067688
+            , 128.406341553
+            , 128.952011108
+            , 129.497680664
+            , 130.04335022
+            , 130.589019775
+            , 131.134689331
+            , 131.680358887
+            , 132.226028442
+            , 132.771697998
+            , 133.305755615
+            , 133.851425171
+            , 134.397094727
+            , 134.954376221
+            , 135.488433838
+            , 136.034103394
+            , 136.568161011
+            , 137.113830566
+            , 137.671112061
+            , 138.205169678
+            , 138.762451172
+            , 139.296508789
+            , 139.853790283
+            , 140.3878479
+            , 140.933517456
+            , 141.479187012
+            , 142.024856567
+            , 142.570526123
+            , 143.10458374
+            , 143.661849976
+            , 144.195922852
+            , 144.741577148
+            , 145.287246704
+            , 145.844528198
+            , 146.390197754
+            , 146.93586731
+            , 147.469924927
+            , 148.015594482
+            , 148.561264038
+            , 149.095321655
+            , 149.629379272
+            , 150.186660767
+            , 150.743942261
+            , 151.277999878
+            , 151.823669434
+            , 152.380950928
+            , 152.926620483
+            , 153.460678101
+            , 153.994735718
+            , 154.552017212
+            , 155.109298706
+            , 155.643356323
+            , 156.17741394
+            , 156.734695435
+            , 157.28036499
+            , 157.826034546
+            , 158.371704102
+            , 158.917373657
+            , 159.451431274
+            , 159.985488892
+            , 160.519546509
+            , 161.065216064
+            , 161.61088562
+            , 162.156555176
+            , 162.702224731
+            , 163.247894287
+            , 163.793563843
+            , 164.32762146
+            , 164.884887695
+            , 165.430557251
+            , 165.976226807
+            , 166.533508301
+            , 167.067565918
+            , 167.613235474
+            , 168.158905029
+            , 168.704574585
+            , 169.250244141
+            , 169.784301758
+            , 170.329971313
+            , 170.875640869
+            , 171.421310425
+            , 171.96697998
+            , 172.501037598
+            , 173.035095215
+            , 173.580764771
+            , 174.126434326
+            , 174.68371582
+            , 175.240997314
+            , 175.775054932
+            , 176.332336426
+            , 176.88961792
+            , 177.423675537
+            , 177.957733154
+            , 178.50340271
+            , 179.049072266
+            , 179.594741821
+            , 180.140411377
+            , 180.697677612
+            , 181.243347168
+            , 181.789016724
+            , 182.323074341
+            , 182.857131958
+            , 183.414413452
+            , 183.948471069
+            , 184.505752563
+            , 185.051422119
+            , 185.597091675
+            , 186.131149292
+            , 186.676818848
+            , 187.222488403
+            , 187.756546021
+            , 188.290603638
+            , 188.836273193
+            , 189.381942749
+            , 189.927612305
+            , 190.47328186
+            , 191.030563354
+            , 191.587844849
+            , 192.133514404
+            , 192.667572021
+            , 193.213241577
+            , 193.770523071
+            , 194.304580688
+            , 194.850250244
+            , 195.3959198
+            , 195.929977417
+            , 196.475646973
+            , 197.021316528
+            , 197.566986084
+            , 198.11265564
+            , 198.646713257
+            , 199.192382812
+            , 199.738052368
+            , 200.283721924
+            , 200.829391479
+            , 201.386657715
+            , 201.920715332
+            , 202.477996826
+            , 203.023666382
+            , 203.557723999
+            , 204.103393555
+            , 204.64906311
+            , 205.194732666
+            , 205.728790283
+            , 206.274459839
+            , 206.820129395
+            , 207.36579895
+            , 207.911468506
+            , 208.457138062
+            , 209.002807617
+            , 209.536865234
+            , 210.08253479
+            , 210.639816284
+            , 211.18548584
+            , 211.742767334
+            , 212.276824951
+            , 212.810882568
+            , 213.344940186
+            , 213.890609741
+            , 214.436279297
+            , 214.981948853
+            , 215.527618408
+            , 216.084899902
+            , 216.642166138
+            , 217.176239014
+            , 217.733505249
+            , 218.279174805
+            , 218.82484436
+            , 219.358901978
+            , 219.892959595
+            , 220.450241089
+            , 220.984298706
+            , 221.518356323
+            , 222.075637817
+            , 222.621307373
+            , 223.166976929
+            , 223.712646484
+            , 224.25831604
+            , 224.803985596
+            , 225.349655151
+            , 225.883712769
+            , 226.429382324
+            , 226.97505188
+            , 227.509109497
+            , 228.054779053
+            , 228.600448608
+            , 229.157730103
+            , 229.69178772
+            , 230.237457275
+            , 230.783126831
+            , 231.328796387
+            , 231.874465942
+            , 232.420135498
+            , 232.965805054
+            , 233.511474609
+            , 234.057144165
+            , 234.602813721
+            , 235.148483276
+            , 235.694152832
+            , 236.239807129
+            , 236.785476685
+            , 237.33114624
+            , 237.876815796
+            , 238.410873413
+            , 238.956542969
+            , 239.502212524
+            , 240.04788208
+            , 240.593551636
+            , 241.139221191
+            , 241.684890747
+            , 242.230560303
+            , 242.776229858
+            , 243.321899414
+            , 243.86756897
+            , 244.424850464
+            , 244.982131958
+            , 245.551010132
+            , 246.119903564
+            , 246.688796997
+            , 247.257675171
+            , 247.826568604
+            , 248.395462036
+            ] 
+        , _beatsPerMinute = 110.148666382
+        , _beatsPerMinuteHistogram = Output 
+            { _firstPeakBpm = StatisticalUnits 
+                { _meanOfDerivative = 0.0
+                , _meanOfSecondDerivative = 0.0
+                , _varianceOfDerivative = 0.0
+                , _varianceOfSecondDerivative = 0.0
+                , _maximum = 110.0
+                , _mean = 110.0
+                , _median = 110.0
+                , _minimum = 110.0
+                , _variance = 0.0
+                } 
+            , _firstPeakSpread = StatisticalUnits 
+                { _meanOfDerivative = 0.0
+                , _meanOfSecondDerivative = 0.0
+                , _varianceOfDerivative = 0.0
+                , _varianceOfSecondDerivative = 0.0
+                , _maximum = 0.369955122471
+                , _mean = 0.369955122471
+                , _median = 0.369955122471
+                , _minimum = 0.369955122471
+                , _variance = 0.0
+                } 
+            , _firstPeakWeight = StatisticalUnits 
+                { _meanOfDerivative = 0.0
+                , _meanOfSecondDerivative = 0.0
+                , _varianceOfDerivative = 0.0
+                , _varianceOfSecondDerivative = 0.0
+                , _maximum = 0.617582440376
+                , _mean = 0.617582440376
+                , _median = 0.617582440376
+                , _minimum = 0.617582440376
+                , _variance = 0.0
+                } 
+            , _secondPeakBpm = StatisticalUnits 
+                { _meanOfDerivative = 0.0
+                , _meanOfSecondDerivative = 0.0
+                , _varianceOfDerivative = 0.0
+                , _varianceOfSecondDerivative = 0.0
+                , _maximum = 105.0
+                , _mean = 105.0
+                , _median = 105.0
+                , _minimum = 105.0
+                , _variance = 0.0
+                } 
+            , _secondPeakSpread = StatisticalUnits 
+                { _meanOfDerivative = 0.0
+                , _meanOfSecondDerivative = 0.0
+                , _varianceOfDerivative = 0.0
+                , _varianceOfSecondDerivative = 0.0
+                , _maximum = 0.0
+                , _mean = 0.0
+                , _median = 0.0
+                , _minimum = 0.0
+                , _variance = 0.0
+                } 
+            , _secondPeakWeight = StatisticalUnits 
+                { _meanOfDerivative = 0.0
+                , _meanOfSecondDerivative = 0.0
+                , _varianceOfDerivative = 0.0
+                , _varianceOfSecondDerivative = 0.0
+                , _maximum = 1.31868133321e-2
+                , _mean = 1.31868133321e-2
+                , _median = 1.31868133321e-2
+                , _minimum = 1.31868133321e-2
+                , _variance = 0.0
+                } 
+            } 
+        , _danceability = 1.23281991482
+        , _onsetRate = 4.60515260696
+        } 
+    , _metadata = MetaData 
+        { _audioProperties = AudioProperties 
+            { _analysisSampleRate = 44100
+            , _bitRate = 320000
+            , _codec = "mp3" 
+            , _downmix = "mix" 
+            , _equalLoudness = 0
+            , _length = 249.051422119
+            , _lossless = False
+            , _md5Encoded = "37385e628bcd0cdf7d32d4dfb1e1ce1e" 
+            , _replayGain = -12.2797012329
+            , _sampleRate = 44100
+            } 
+        , _tags = Tags 
+            ( fromList 
+                [ 
+                    ( "length" 
+                    , Array [ String "249053" ]
+                    ) 
+                , 
+                    ( "musicbrainz_recordingid" 
+                    , Array [ String "373fb4e1-f931-4be7-b1a5-66f34748cc68" ]
+                    ) 
+                , 
+                    ( "date" 
+                    , Array [ String "2010" ]
+                    ) 
+                , 
+                    ( "media" 
+                    , Array [ String "CD" ]
+                    ) 
+                , 
+                    ( "tracknumber" 
+                    , Array [ String "7" ]
+                    ) 
+                , 
+                    ( "album" 
+                    , Array [ String "Boogie Times Presents The Great Collectors Vol. 14" ]
+                    ) 
+                , 
+                    ( "title" 
+                    , Array [ String "Heartbreaker" ]
+                    ) 
+                , 
+                    ( "genre" 
+                    , Array [ String "Funk / Soul" ]
+                    ) 
+                , 
+                    ( "file_name" 
+                    , String "copy1140444808676624262.mp3" 
+                    ) 
+                , 
+                    ( "albumartist" 
+                    , Array [ String "Various" ]
+                    ) 
+                , 
+                    ( "label" 
+                    , Array [ String "Boogie Times Records" ]
+                    ) 
+                , 
+                    ( "artist" 
+                    , Array [ String "Omega Sunrise" ]
+                    ) 
+                ] 
+            )
+        , _version = Version 
+            { _essentia = EssentiaVersion 
+                { _essentiaVersion = "2.1-beta2" 
+                , _essentiaBuildSha = "cead25079874084f62182a551b7393616cd33d87" 
+                , _essentiaGitSha = "v2.1_beta2-1-ge3940c0" 
+                } 
+            , _extractor = "music 1.0" 
+            , _gaia = Nothing
+            , _modelsEssentiaGitSha = "" 
+            } 
+        } 
+    } 
